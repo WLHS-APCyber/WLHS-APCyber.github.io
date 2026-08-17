@@ -1,0 +1,492 @@
+/* ================================================================
+   AP Cybersecurity — Field Case File design system
+   A working investigator's dossier: kraft folders, index cards,
+   typewritten stamps. Deliberately not a dark dev-console.
+   ================================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&family=Courier+Prime:wght@400;700&family=Public+Sans:wght@400;500;600;700&display=swap');
+
+:root {
+  --paper-bg:   #E4D9BC;  /* kraft envelope — page background */
+  --paper-card: #F2EAD3;  /* manila index card / folder front */
+  --paper-dark: #CBB98C;  /* darker kraft — tabs, shadows, hairlines */
+  --ink:        #26221A;  /* near-black warm ink — primary text */
+  --ink-soft:   #574E38;  /* secondary ink */
+  --ink-faint:  #8A7D5C;  /* tertiary / placeholder ink */
+  --line:       #BBA97C;  /* rule lines on paper */
+
+  --scanner-bg: #171712;  /* the one dark surface: forensic readout strip */
+  --scanner-ink:#CFE3D2;
+  --scanner-mono:#8FE0AE;
+
+  --teal:       #2B6E63;  /* verified / correct / primary accent */
+  --teal-wash:  #DCEAE3;
+  --ochre:      #96631E;  /* unit 2 tag / caution */
+  --ochre-wash: #EFE1C6;
+  --plum:       #5B4A6E;  /* unit 3 tag */
+  --plum-wash:  #E4DEEA;
+  --moss:       #55642F;  /* unit 4 tag */
+  --moss-wash:  #E4E8D6;
+  --brick:      #8C3B2E;  /* unit 5 tag / incorrect */
+  --brick-wash: #F1DCD6;
+
+  --display: 'Special Elite', cursive;   /* typewriter — headlines & stamps only */
+  --body: 'Public Sans', sans-serif;
+  --mono: 'Courier Prime', monospace;    /* case numbers, data, timestamps */
+
+  /* Legacy aliases: earlier labs reference these names directly in their
+     own <style> blocks. Keeping them mapped to the new palette means those
+     labs don't need individual edits every time the palette changes. */
+  --cyan: var(--teal);
+  --cyan-dim: var(--teal-wash);
+  --amber: var(--ochre);
+  --amber-dim: var(--ochre-wash);
+  --violet: var(--plum);
+  --violet-dim: var(--plum-wash);
+  --green: var(--teal);      /* "correct" badges reuse the teal accent, not unit-4's moss */
+  --green-dim: var(--teal-wash);
+  --red: var(--brick);
+  --red-dim: var(--brick-wash);
+
+  /* More legacy aliases — text-color names from an earlier draft, still
+     referenced directly inside individual lab pages' own <style> blocks. */
+  --text-dim: var(--ink-soft);
+  --text-on-paper: var(--ink);
+  --text-on-paper-dim: var(--ink-soft);
+
+  --radius: 3px;   /* paper doesn't round much */
+  --radius-lg: 4px;
+}
+
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  background:
+    repeating-linear-gradient(0deg, rgba(0,0,0,0.015) 0px, rgba(0,0,0,0.015) 1px, transparent 1px, transparent 3px),
+    var(--paper-bg);
+  color: var(--ink);
+  font-family: var(--body);
+  line-height: 1.55;
+  -webkit-font-smoothing: antialiased;
+}
+
+a { color: inherit; }
+::selection { background: var(--teal); color: #fff; }
+
+/* ---------- Top bar: looks like a folder spine label ---------- */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.75rem 1.5rem;
+  border-bottom: 3px solid var(--ink);
+  background: var(--paper-card);
+  position: sticky;
+  top: 0;
+  z-index: 20;
+}
+
+.brand {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.15rem;
+  letter-spacing: 0.01em;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.brand .tag {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  font-weight: 700;
+  color: var(--paper-card);
+  background: var(--ink);
+  padding: 0.15rem 0.5rem;
+  letter-spacing: 0.05em;
+  transform: rotate(-1deg);
+  display: inline-block;
+}
+
+.topnav {
+  display: flex;
+  gap: 1.4rem;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--ink-soft);
+}
+.topnav a { text-decoration: none; border-bottom: 1px dotted var(--ink-faint); }
+.topnav a:hover { color: var(--teal); border-color: var(--teal); }
+
+/* ---------- Layout shells ---------- */
+.shell { max-width: 1100px; margin: 0 auto; padding: 2.5rem 1.5rem 5rem; }
+
+.hero {
+  padding: 1.6rem 1.8rem 2rem;
+  margin-bottom: 2.6rem;
+  background: var(--paper-card);
+  border: 1px solid var(--paper-dark);
+  position: relative;
+}
+.hero::before {
+  content: "";
+  position: absolute; left: 14px; top: 14px; bottom: 14px; width: 10px;
+  background-image:
+    radial-gradient(circle, var(--paper-bg) 4px, transparent 4.5px);
+  background-size: 10px 60px;
+  background-repeat: repeat-y;
+  opacity: 0.9;
+}
+.hero { padding-left: 2.6rem; }
+
+.eyebrow {
+  font-family: var(--mono);
+  font-size: 0.74rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--teal);
+  margin: 0 0 0.6rem;
+}
+
+h1.title {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: clamp(1.6rem, 3.2vw, 2.3rem);
+  line-height: 1.2;
+  margin: 0 0 0.9rem;
+  color: var(--ink);
+}
+
+.lede {
+  max-width: 64ch;
+  color: var(--ink-soft);
+  font-size: 1rem;
+  margin: 0;
+}
+
+.stat-row { display: flex; gap: 2rem; margin-top: 1.5rem; flex-wrap: wrap; }
+.stat { font-family: var(--mono); }
+.stat .n { display: block; font-size: 1.4rem; font-weight: 700; color: var(--ink); }
+.stat .l { font-size: 0.7rem; color: var(--ink-faint); text-transform: uppercase; letter-spacing: 0.06em; }
+
+/* ---------- Unit blocks: manila folders with a die-cut tab ---------- */
+.unit {
+  margin-bottom: 2.6rem;
+  position: relative;
+  background: var(--paper-card);
+  border: 1px solid var(--paper-dark);
+  box-shadow: 3px 4px 0 rgba(38,34,26,0.08);
+}
+
+.unit-head {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 1rem 1.3rem 1rem 1.6rem;
+  border-bottom: 2px solid var(--ink);
+  position: relative;
+}
+
+.unit-tab {
+  font-family: var(--mono);
+  font-weight: 700;
+  font-size: 0.76rem;
+  padding: 0.25rem 0.6rem;
+  border-radius: 2px;
+  white-space: nowrap;
+  position: relative;
+  top: -1px;
+}
+.unit-tab::before {
+  content: "";
+  position: absolute;
+  left: 0; right: 0; top: -0.9rem;
+  height: 0.9rem;
+  background: inherit;
+  clip-path: polygon(8% 0, 92% 0, 100% 100%, 0% 100%);
+}
+
+.unit-head h2 {
+  font-family: var(--display);
+  font-weight: 400;
+  font-size: 1.15rem;
+  margin: 0;
+  color: var(--ink);
+  flex: 1;
+}
+
+.unit-count { font-family: var(--mono); font-size: 0.72rem; color: var(--ink-faint); }
+
+.topic { padding: 0.95rem 1.4rem; border-bottom: 1px dashed var(--line); }
+.topic:last-child { border-bottom: none; }
+
+.topic-head {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6rem;
+  margin-bottom: 0.6rem;
+  font-family: var(--mono);
+  font-size: 0.8rem;
+  color: var(--ink-soft);
+}
+.topic-head .num { color: var(--ink); font-weight: 700; }
+.topic-head .name { color: var(--ink); }
+.topic.empty .topic-head { opacity: 0.55; }
+.soon { font-style: italic; color: var(--ink-faint); font-size: 0.82rem; padding-left: 0.2rem; }
+
+.lab-list { list-style: none; margin: 0; padding: 0; display: grid; gap: 0.6rem; }
+
+.lab-card {
+  display: flex;
+  align-items: center;
+  gap: 0.9rem;
+  padding: 0.8rem 1rem;
+  border: 1px solid var(--paper-dark);
+  border-left-width: 4px;
+  text-decoration: none;
+  background: var(--paper-bg);
+  transition: transform 0.12s ease;
+  position: relative;
+}
+.lab-card:hover { transform: translateX(3px) rotate(-0.15deg); }
+
+.lab-card .lab-name { font-weight: 600; color: var(--ink); font-size: 0.95rem; flex: 1; font-family: var(--body); }
+.lab-card .lab-obj { font-family: var(--mono); font-size: 0.68rem; color: var(--ink-soft); white-space: nowrap; }
+.lab-card .arrow { color: var(--ink-faint); font-family: var(--mono); }
+
+.u-teal  { color: var(--teal);  background: var(--teal-wash); }
+.u-ochre { color: var(--ochre); background: var(--ochre-wash); }
+.u-plum  { color: var(--plum);  background: var(--plum-wash); }
+.u-moss  { color: var(--moss);  background: var(--moss-wash); }
+.u-brick { color: var(--brick); background: var(--brick-wash); }
+.u-cyan   { color: var(--teal);  background: var(--teal-wash); }
+.u-amber  { color: var(--ochre); background: var(--ochre-wash); }
+.u-violet { color: var(--plum);  background: var(--plum-wash); }
+.u-green  { color: var(--moss);  background: var(--moss-wash); }
+.u-red    { color: var(--brick); background: var(--brick-wash); }
+
+.unit.cyan   .lab-card, .unit.teal  .lab-card { border-left-color: var(--teal); }
+.unit.amber  .lab-card, .unit.ochre .lab-card { border-left-color: var(--ochre); }
+.unit.violet .lab-card, .unit.plum  .lab-card { border-left-color: var(--plum); }
+.unit.green  .lab-card, .unit.moss  .lab-card { border-left-color: var(--moss); }
+.unit.red    .lab-card, .unit.brick .lab-card { border-left-color: var(--brick); }
+
+footer.site-foot {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 2rem 1.5rem 3rem;
+  color: var(--ink-faint);
+  font-size: 0.76rem;
+  border-top: 1px dashed var(--line);
+  font-family: var(--mono);
+}
+
+/* ================================================================
+   LAB PAGE (case file) shared components
+   ================================================================ */
+
+.case-strip {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--ink-soft);
+  margin-bottom: 0.7rem;
+  flex-wrap: wrap;
+}
+.case-strip .obj-chip {
+  border: 1px solid var(--paper-dark);
+  background: var(--paper-card);
+  padding: 0.2rem 0.55rem;
+  border-radius: 2px;
+}
+
+.case-brief {
+  background: var(--paper-card);
+  border: 1px solid var(--paper-dark);
+  border-left: 4px solid var(--teal);
+  padding: 1rem 1.2rem;
+  margin: 1.3rem 0 1.8rem;
+  font-size: 0.94rem;
+  color: var(--ink);
+  position: relative;
+}
+.case-brief::after {
+  content: "CASE BRIEFING";
+  position: absolute;
+  top: -0.6rem; left: 1rem;
+  background: var(--paper-bg);
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  letter-spacing: 0.1em;
+  color: var(--ink-faint);
+  padding: 0 0.4rem;
+}
+.case-brief b { color: var(--ink); }
+
+.workspace {
+  background: var(--paper-card);
+  border: 1px solid var(--paper-dark);
+  overflow: hidden;
+  box-shadow: 4px 5px 0 rgba(38,34,26,0.08);
+}
+
+.progress-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.9rem 1.2rem;
+  border-top: 1px dashed var(--line);
+  margin-top: 1.4rem;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  color: var(--ink-soft);
+  flex-wrap: wrap;
+}
+
+.progress-track {
+  flex: 1;
+  min-width: 160px;
+  height: 8px;
+  background: var(--paper-dark);
+  overflow: hidden;
+}
+.progress-fill { height: 100%; background: var(--teal); width: 0%; transition: width 0.25s ease; }
+
+.btn {
+  font-family: var(--mono);
+  font-size: 0.76rem;
+  font-weight: 700;
+  border: 1px solid var(--ink);
+  background: var(--paper-card);
+  color: var(--ink);
+  padding: 0.55rem 0.95rem;
+  border-radius: 2px;
+  cursor: pointer;
+  letter-spacing: 0.02em;
+}
+.btn:hover { background: var(--ink); color: var(--paper-card); }
+.btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.btn.primary { background: var(--teal); color: #fff; border-color: var(--teal); }
+.btn.primary:hover { background: #1f5850; color: #fff; }
+
+.btn.danger:hover { background: var(--brick); border-color: var(--brick); color: #fff; }
+.btn.safe:hover { background: var(--teal); border-color: var(--teal); color: #fff; }
+
+.results-panel {
+  display: none;
+  background: var(--paper-card);
+  border: 1px solid var(--paper-dark);
+  border-top: 3px solid var(--ink);
+  padding: 1.2rem 1.3rem;
+  margin-top: 1rem;
+}
+.results-panel.show { display: block; }
+.results-panel h3 { font-family: var(--display); font-weight: 400; margin: 0 0 0.8rem; color: var(--ink); font-size: 1.15rem; }
+.results-panel ul { margin: 0.6rem 0 0; padding-left: 1.2rem; font-size: 0.88rem; color: var(--ink-soft); }
+.results-panel li { margin-bottom: 0.4rem; }
+.score-big { font-family: var(--mono); font-size: 2.1rem; font-weight: 700; color: var(--teal); }
+
+.tag {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  padding: 0.1rem 0.4rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+}
+.tag.correct { background: var(--teal-wash); color: var(--teal); }
+.tag.incorrect { background: var(--brick-wash); color: var(--brick); }
+
+.back-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-family: var(--mono);
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--ink-soft);
+  text-decoration: none;
+  margin-bottom: 1.2rem;
+}
+.back-link:hover { color: var(--teal); }
+
+@media (max-width: 640px) {
+  .topnav { display: none; }
+  .stat-row { gap: 1.2rem; }
+  .hero::before { display: none; }
+  .hero { padding-left: 1.8rem; }
+}
+
+/* ================================================================
+   HOME / LANDING PAGE components
+   ================================================================ */
+
+.cta-row { margin-top: 1.6rem; }
+.cta-row .btn { text-decoration: none; display: inline-block; }
+
+.about-text { margin: 0; color: var(--ink-soft); font-size: 0.95rem; max-width: 70ch; }
+
+.section-head { margin: 2.6rem 0 0; }
+.section-head h2 { font-family: var(--display); font-weight: 400; font-size: 1.3rem; margin: 0 0 0.4rem; color: var(--ink); }
+.section-head p { margin: 0; color: var(--ink-soft); font-size: 0.92rem; max-width: 60ch; }
+
+.roadmap-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin-top: 1.4rem;
+}
+
+.roadmap-card {
+  display: block;
+  padding: 1rem 1.1rem;
+  background: var(--paper-card);
+  border: 1px solid var(--paper-dark);
+  border-left-width: 4px;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 3px 4px 0 rgba(38,34,26,0.06);
+  transition: transform 0.12s ease;
+}
+.roadmap-card:hover { transform: translateX(3px) rotate(-0.15deg); }
+
+.roadmap-card .r-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.6rem;
+  margin-bottom: 0.5rem;
+}
+.roadmap-card .r-num { font-family: var(--mono); font-size: 0.72rem; font-weight: 700; color: var(--ink-soft); }
+.roadmap-card .r-status {
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  padding: 0.15rem 0.45rem;
+  white-space: nowrap;
+}
+.roadmap-card h3 { font-family: var(--body); font-size: 1rem; font-weight: 700; margin: 0 0 0.4rem; color: var(--ink); }
+.roadmap-card p { margin: 0; font-size: 0.85rem; color: var(--ink-soft); }
+
+.roadmap-card.cyan   { border-left-color: var(--teal); }
+.roadmap-card.amber  { border-left-color: var(--ochre); }
+.roadmap-card.violet { border-left-color: var(--plum); }
+.roadmap-card.green  { border-left-color: var(--moss); }
+.roadmap-card.red    { border-left-color: var(--brick); }
+
+.status-live     { background: var(--teal-wash);  color: var(--teal); }
+.status-progress { background: var(--ochre-wash); color: var(--ochre); }
+.status-soon     { background: var(--paper-dark); color: var(--ink-soft); }
