@@ -14,6 +14,7 @@
     <a href="/cyber-labs/">Labs</a>
     <a href="#roadmap">Units</a>
     <a href="#about">About</a>
+    <a href="#threat-wire">News</a>
   </nav>
 </div>
 
@@ -89,12 +90,78 @@
     </div>
   </section>
 
+  <section id="threat-wire" class="unit red">
+    <div class="unit-head">
+      <span class="unit-tab u-red">LIVE FEED</span>
+      <h2>Threat wire</h2>
+      <span class="unit-count">The Hacker News</span>
+    </div>
+    <div class="topic">
+      <ul id="rss-feed" class="lab-list">
+        <li class="soon">Loading latest headlines…</li>
+      </ul>
+    </div>
+  </section>
+
 </main>
 
 <footer class="site-foot">
   AP Cybersecurity — Case Files. Original scenario content — not affiliated with, endorsed by, or
   sponsored by the College Board or CompTIA. AP® is a registered trademark of the College Board.
 </footer>
+
+
+<script>
+(function () {
+  const FEED_URL = 'https://feeds.feedburner.com/TheHackersNews';
+  const API_URL = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(FEED_URL);
+  const MAX_ITEMS = 6;
+  const list = document.getElementById('rss-feed');
+
+  fetch(API_URL)
+    .then(function (res) {
+      if (!res.ok) throw new Error('Bad response: ' + res.status);
+      return res.json();
+    })
+    .then(function (data) {
+      if (data.status !== 'ok' || !data.items || !data.items.length) {
+        throw new Error('Feed returned no items');
+      }
+      list.innerHTML = '';
+      data.items.slice(0, MAX_ITEMS).forEach(function (item) {
+        const li = document.createElement('li');
+        li.className = 'lab-card';
+
+        const nameSpan = document.createElement('span');
+        nameSpan.className = 'lab-name';
+        const link = document.createElement('a');
+        link.textContent = item.title || 'Untitled';
+        if (/^https?:\/\//i.test(item.link || '')) {
+          link.href = item.link;
+          link.target = '_blank';
+          link.rel = 'noopener noreferrer';
+        }
+        nameSpan.appendChild(link);
+
+        const dateSpan = document.createElement('span');
+        dateSpan.className = 'lab-obj';
+        dateSpan.textContent = item.pubDate
+          ? new Date(item.pubDate).toLocaleDateString(undefined, { month: 'short', day: 'numeric' })
+          : '';
+
+        li.appendChild(nameSpan);
+        li.appendChild(dateSpan);
+        list.appendChild(li);
+      });
+    })
+    .catch(function (err) {
+      list.innerHTML =
+        '<li class="soon">Couldn\'t load live headlines right now. ' +
+        '<a href="' + FEED_URL + '" target="_blank" rel="noopener noreferrer">View the feed directly →</a></li>';
+      console.error('RSS feed error:', err);
+    });
+})();
+</script>
 
 </body>
 </html>
