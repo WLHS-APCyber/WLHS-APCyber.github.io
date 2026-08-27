@@ -491,4 +491,15 @@ footer.site-foot {
 .status-progress { background: var(--ochre-wash); color: var(--ochre); }
 .status-soon     { background: var(--paper-dark); color: var(--ink-soft); }
 
-#threat-wire { margin-top: 2.6rem; }
+.feed-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.4rem;
+  margin-top: 2.6rem;
+  align-items: start;
+}
+.feed-grid .unit { margin-bottom: 0; }
+
+@media (max-width: 780px) {
+  .feed-grid { grid-template-columns: 1fr; }
+}
