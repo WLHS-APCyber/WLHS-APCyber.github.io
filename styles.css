@@ -495,7 +495,7 @@ footer.site-foot {
   display: grid;
   grid-template-columns: 1fr 1fr;
   gap: 1.4rem;
-  margin-top: 2.6rem;
+  margin-bottom: 2.6rem;
   align-items: start;
 }
 .feed-grid .unit { margin-bottom: 0; }
