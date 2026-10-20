@@ -129,28 +129,30 @@
 
 <script>
 (function () {
+  // feeds.json is refreshed by .github/workflows/update-feeds.yml
   const MAX_ITEMS = 6;
   const FEEDS = [
-    { url: 'https://feeds.feedburner.com/TheHackersNews', listId: 'rss-feed-hackernews', emptyText: 'headlines' },
-    { url: 'https://haveibeenpwned.com/feed/breaches/', listId: 'rss-feed-hibp', emptyText: 'breaches' }
+    { key: 'hackernews', url: 'https://feeds.feedburner.com/TheHackersNews', listId: 'rss-feed-hackernews', emptyText: 'headlines' },
+    { key: 'hibp', url: 'https://haveibeenpwned.com/feed/breaches/', listId: 'rss-feed-hibp', emptyText: 'breaches' }
   ];
+
+  const feedData = fetch('/feeds.json', { cache: 'no-cache' }).then(function (res) {
+    if (!res.ok) throw new Error('Bad response: ' + res.status);
+    return res.json();
+  });
 
   function loadFeed(feed) {
     const list = document.getElementById(feed.listId);
     if (!list) return;
-    const apiUrl = 'https://api.rss2json.com/v1/api.json?rss_url=' + encodeURIComponent(feed.url);
 
-    fetch(apiUrl)
-      .then(function (res) {
-        if (!res.ok) throw new Error('Bad response: ' + res.status);
-        return res.json();
-      })
+    feedData
       .then(function (data) {
-        if (data.status !== 'ok' || !data.items || !data.items.length) {
+        const entry = data.feeds && data.feeds[feed.key];
+        if (!entry || !entry.items || !entry.items.length) {
           throw new Error('Feed returned no items');
         }
         list.innerHTML = '';
-        data.items.slice(0, MAX_ITEMS).forEach(function (item) {
+        entry.items.slice(0, MAX_ITEMS).forEach(function (item) {
           const li = document.createElement('li');
           li.className = 'lab-card';
 
