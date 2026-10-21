@@ -1,9 +1,24 @@
 {
-  "updated": "2026-10-21T12:39:47.921520+00:00",
+  "updated": "2026-10-21T14:30:26.372606+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
+          "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
+          "pubDate": "2026-10-21T13:15:09+00:00"
+        },
+        {
+          "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
+          "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
+          "pubDate": "2026-10-21T12:05:00+00:00"
+        },
+        {
+          "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
+          "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
+          "pubDate": "2026-10-21T11:53:34+00:00"
+        },
         {
           "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
           "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
@@ -18,21 +33,6 @@
           "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
           "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
           "pubDate": "2026-10-21T10:30:27+00:00"
-        },
-        {
-          "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
-          "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
-          "pubDate": "2026-10-21T09:05:17+00:00"
-        },
-        {
-          "title": "Attackers Abuse UpdraftCentral Keys to Plant Backdoors on WordPress Sites",
-          "link": "https://thehackernews.com/2026/10/attackers-abuse-updraftcentral-keys-to.html",
-          "pubDate": "2026-10-21T09:01:12+00:00"
-        },
-        {
-          "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
-          "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
-          "pubDate": "2026-10-21T08:04:17+00:00"
         }
       ]
     },
