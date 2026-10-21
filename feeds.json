@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-20T19:23:19.203032+00:00",
+  "updated": "2026-10-21T06:44:02.446566+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
+          "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
+          "pubDate": "2026-10-21T04:57:50+00:00"
+        },
         {
           "title": "Eight eMudhra CA Keys Compromised, Triggering Emergency Fixes Across Browsers and Software",
           "link": "https://thehackernews.com/2026/10/eight-emudhra-ca-keys-compromised.html",
@@ -28,11 +33,6 @@
           "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
           "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
           "pubDate": "2026-10-20T12:59:44+00:00"
-        },
-        {
-          "title": "WhatsApp Hid Instructions in Help Pages Telling Its AI Chatbot Not to Recommend Privacy Regulators",
-          "link": "https://thehackernews.com/2026/10/whatsapp-hid-instructions-in-help-pages.html",
-          "pubDate": "2026-10-20T11:41:06+00:00"
         }
       ]
     },
