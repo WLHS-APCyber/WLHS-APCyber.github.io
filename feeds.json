@@ -1,9 +1,24 @@
 {
-  "updated": "2026-10-21T10:29:51.202457+00:00",
+  "updated": "2026-10-21T12:39:47.921520+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "PHP2Shell: What Actually Protects You Before the 14:00 UTC PHP RCE Patch, and What Doesn't",
+          "link": "https://thehackernews.com/2026/10/php2shell-what-actually-protects-you.html",
+          "pubDate": "2026-10-21T10:36:53+00:00"
+        },
+        {
+          "title": "The Harness Is the Hard Part of Agentic Pentesting",
+          "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
+          "pubDate": "2026-10-21T10:32:40+00:00"
+        },
+        {
+          "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
+          "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
+          "pubDate": "2026-10-21T10:30:27+00:00"
+        },
         {
           "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
           "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
@@ -18,21 +33,6 @@
           "title": "U.S. Orders DeepSeek Removed From Federal Civilian Systems, Bans New Purchases",
           "link": "https://thehackernews.com/2026/10/us-orders-deepseek-removed-from-federal.html",
           "pubDate": "2026-10-21T08:04:17+00:00"
-        },
-        {
-          "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
-          "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
-          "pubDate": "2026-10-21T07:44:22+00:00"
-        },
-        {
-          "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
-          "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
-          "pubDate": "2026-10-21T07:26:49+00:00"
-        },
-        {
-          "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
-          "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
-          "pubDate": "2026-10-21T06:05:15+00:00"
         }
       ]
     },
