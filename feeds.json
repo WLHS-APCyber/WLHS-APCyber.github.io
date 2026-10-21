@@ -1,9 +1,24 @@
 {
-  "updated": "2026-10-21T06:44:02.446566+00:00",
+  "updated": "2026-10-21T08:36:34.933569+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "State Bank of India Confirms Data Leak After 3,897 Customer Records Found on Dark Web",
+          "link": "https://thehackernews.com/2026/10/state-bank-of-india-confirms-data-leak.html",
+          "pubDate": "2026-10-21T07:44:22+00:00"
+        },
+        {
+          "title": "CISA Orders Federal Agencies to Patch Exploited Plex2Shell, Siemens, and SiteGuard Flaws",
+          "link": "https://thehackernews.com/2026/10/cisa-orders-federal-agencies-to-patch.html",
+          "pubDate": "2026-10-21T07:26:49+00:00"
+        },
+        {
+          "title": "Hackers Hid Vasilek Backdoor in VMware Tools During 2-Year Russian Healthcare Intrusion",
+          "link": "https://thehackernews.com/2026/10/hackers-hid-vasilek-backdoor-in-vmware.html",
+          "pubDate": "2026-10-21T06:05:15+00:00"
+        },
         {
           "title": "PHP2Shell: Two Unpatched Critical PHP RCE Flaws (CVSS 9.2) Trigger Emergency Security Alert",
           "link": "https://thehackernews.com/2026/10/php2shell-two-unpatched-critical-php.html",
@@ -18,21 +33,6 @@
           "title": "Critical FortiSIEM Flaw Gets Public Exploit PoC for Unauthenticated Remote Code Execution",
           "link": "https://thehackernews.com/2026/10/critical-fortisiem-flaw-gets-public.html",
           "pubDate": "2026-10-20T15:38:52+00:00"
-        },
-        {
-          "title": "Qilin and INC Ransomware Groups Exploit Palo Alto Networks Flaw to Bypass MFA",
-          "link": "https://thehackernews.com/2026/10/qilin-and-inc-ransomware-groups-exploit.html",
-          "pubDate": "2026-10-20T15:32:27+00:00"
-        },
-        {
-          "title": "Hackers Use Autonomous AI Agents to Breach Company Websites, Target Over 1,200 Sites",
-          "link": "https://thehackernews.com/2026/10/hackers-use-autonomous-ai-agents-to.html",
-          "pubDate": "2026-10-20T14:07:17+00:00"
-        },
-        {
-          "title": "Pegasus Spyware Infection Confirmed on Serbian University Rector's iPhone Days Before Election",
-          "link": "https://thehackernews.com/2026/10/pegasus-spyware-infection-confirmed-on.html",
-          "pubDate": "2026-10-20T12:59:44+00:00"
         }
       ]
     },
