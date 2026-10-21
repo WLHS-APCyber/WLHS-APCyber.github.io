@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-21T14:30:26.372606+00:00",
+  "updated": "2026-10-21T16:30:18.780585+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "PHP Issues Emergency Patches for Two Critical PHP2Shell RCE Flaws as Exploit Attempts Emerge",
+          "link": "https://thehackernews.com/2026/10/php-issues-emergency-patches-for-two.html",
+          "pubDate": "2026-10-21T14:00:00+00:00"
+        },
         {
           "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
           "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
@@ -28,11 +33,6 @@
           "title": "The Harness Is the Hard Part of Agentic Pentesting",
           "link": "https://thehackernews.com/2026/10/the-harness-is-hard-part-of-agentic.html",
           "pubDate": "2026-10-21T10:32:40+00:00"
-        },
-        {
-          "title": "Attackers Hijacked Over 300 Tor Exit Relays to Intercept SSH Connections",
-          "link": "https://thehackernews.com/2026/10/attackers-hijacked-over-300-tor-exit.html",
-          "pubDate": "2026-10-21T10:30:27+00:00"
         }
       ]
     },
