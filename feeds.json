@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-21T18:33:40.856259+00:00",
+  "updated": "2026-10-21T20:28:57.914875+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
+          "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
+          "pubDate": "2026-10-21T18:57:34+00:00"
+        },
         {
           "title": "LiteLLM Compromised in Supply Chain Attack Delivering Credential Stealer and Backdoor",
           "link": "https://thehackernews.com/2026/10/litellm-compromised-in-supply-chain.html",
@@ -28,11 +33,6 @@
           "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
           "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
           "pubDate": "2026-10-21T12:05:00+00:00"
-        },
-        {
-          "title": "Generative AI Is Erasing Behavioral Tells, Weakening Behavior-Only Detection, Proofpoint Reports",
-          "link": "https://thehackernews.com/2026/10/generative-ai-is-erasing-behavioral.html",
-          "pubDate": "2026-10-21T11:53:34+00:00"
         }
       ]
     },
