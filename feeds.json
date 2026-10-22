@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-22T12:40:43.728823+00:00",
+  "updated": "2026-10-22T14:31:03.086496+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
+          "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
+          "pubDate": "2026-10-22T13:38:22+00:00"
+        },
+        {
+          "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+          "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+          "pubDate": "2026-10-22T11:45:00+00:00"
+        },
         {
           "title": "Railway Says Intruder May Have Accessed Customer Secrets, Urges Credential Rotation",
           "link": "https://thehackernews.com/2026/10/railway-says-intruder-may-have-accessed.html",
@@ -23,16 +33,6 @@
           "title": "Node.js Brotli Decoder Bug Could Allow Remote Code Execution in All Supported Versions",
           "link": "https://thehackernews.com/2026/10/nodejs-brotli-decoder-bug-could-allow.html",
           "pubDate": "2026-10-22T07:47:22+00:00"
-        },
-        {
-          "title": "New QPACK Flaws Can Crash HTTP/3 Servers, Trigger Up to 4,000-Fold Memory Amplification",
-          "link": "https://thehackernews.com/2026/10/new-qpack-flaws-can-crash-http3-servers.html",
-          "pubDate": "2026-10-22T06:38:31+00:00"
-        },
-        {
-          "title": "Someone Tried to Exploit PHP2Shell 4 Days Before the Vulnerabilities Were Publicly Disclosed",
-          "link": "https://thehackernews.com/2026/10/someone-tried-to-exploit-php2shell-4.html",
-          "pubDate": "2026-10-22T06:34:10+00:00"
         }
       ]
     },
