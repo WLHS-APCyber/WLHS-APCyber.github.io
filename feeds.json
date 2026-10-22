@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-21T20:28:57.914875+00:00",
+  "updated": "2026-10-22T06:44:24.250893+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "China-Linked Hackers Use ARTEX AI Agents in ConnectWise Supply Chain Attack",
+          "link": "https://thehackernews.com/2026/10/china-linked-hackers-use-artex-ai.html",
+          "pubDate": "2026-10-22T04:21:26+00:00"
+        },
         {
           "title": "Critical GitLab Flaw (CVSS 10.0) Could Allow Unauthenticated RCE Across 12 Years of Releases",
           "link": "https://thehackernews.com/2026/10/critical-gitlab-flaw-cvss-100-could.html",
@@ -28,11 +33,6 @@
           "title": "Google Chrome Adds ClickFix Warnings to Stop Users From Running Malicious Commands",
           "link": "https://thehackernews.com/2026/10/google-chrome-adds-clickfix-warnings-to.html",
           "pubDate": "2026-10-21T13:15:09+00:00"
-        },
-        {
-          "title": "China-Aligned Bronze Sandcastle Abuses Sandboxie DLL Sideloading to Deploy Backdoors",
-          "link": "https://thehackernews.com/2026/10/china-aligned-bronze-sandcastle-abuses.html",
-          "pubDate": "2026-10-21T12:05:00+00:00"
         }
       ]
     },
