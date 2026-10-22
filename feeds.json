@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-22T18:32:50.463464+00:00",
+  "updated": "2026-10-22T20:28:16.503594+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
+          "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
+          "pubDate": "2026-10-22T19:05:35+00:00"
+        },
+        {
+          "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
+          "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
+          "pubDate": "2026-10-22T19:05:17+00:00"
+        },
         {
           "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
           "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
@@ -23,16 +33,6 @@
           "title": "Meta Ordered to Pay $25 Billion After Court Finds 43 Million Privacy Violations",
           "link": "https://thehackernews.com/2026/10/meta-ordered-to-pay-25-billion-after.html",
           "pubDate": "2026-10-22T16:12:31+00:00"
-        },
-        {
-          "title": "INTERPOL Arrests 1,462 Suspects, Disrupts 10,909 Cybercrime Networks in Global Crackdown",
-          "link": "https://thehackernews.com/2026/10/interpol-arrests-1462-suspects-disrupts.html",
-          "pubDate": "2026-10-22T13:38:22+00:00"
-        },
-        {
-          "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-          "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-          "pubDate": "2026-10-22T11:45:00+00:00"
         }
       ]
     },
