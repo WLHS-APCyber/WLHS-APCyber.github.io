@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-23T18:35:03.009799+00:00",
+  "updated": "2026-10-23T20:29:52.676406+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
+          "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
+          "pubDate": "2026-10-23T18:50:13+00:00"
+        },
         {
           "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
           "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
@@ -28,11 +33,6 @@
           "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
           "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
           "pubDate": "2026-10-23T11:11:23+00:00"
-        },
-        {
-          "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
-          "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
-          "pubDate": "2026-10-23T09:36:00+00:00"
         }
       ]
     },
