@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-23T10:28:35.239244+00:00",
+  "updated": "2026-10-23T12:38:33.526563+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+          "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
+          "pubDate": "2026-10-23T11:25:43+00:00"
+        },
+        {
+          "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+          "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
+          "pubDate": "2026-10-23T11:11:23+00:00"
+        },
         {
           "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
           "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
@@ -23,16 +33,6 @@
           "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
           "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
           "pubDate": "2026-10-23T07:40:45+00:00"
-        },
-        {
-          "title": "The AI Agent Nobody Owns: Watch Expert Webinar On Your Newest Insider Threat",
-          "link": "https://thehackernews.com/2026/10/the-ai-agent-nobody-owns-watch-expert.html",
-          "pubDate": "2026-10-22T19:05:35+00:00"
-        },
-        {
-          "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
-          "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
-          "pubDate": "2026-10-22T19:05:17+00:00"
         }
       ]
     },
