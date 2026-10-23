@@ -1,13 +1,23 @@
 {
-  "updated": "2026-10-23T08:36:29.257442+00:00",
+  "updated": "2026-10-23T10:28:35.239244+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
         {
+          "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
+          "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
+          "pubDate": "2026-10-23T09:36:00+00:00"
+        },
+        {
           "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
           "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-          "pubDate": "2026-10-23T07:50:01+00:00"
+          "pubDate": "2026-10-23T08:40:43+00:00"
+        },
+        {
+          "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
+          "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
+          "pubDate": "2026-10-23T08:35:45+00:00"
         },
         {
           "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
@@ -23,16 +33,6 @@
           "title": "Arista Warns of Critical VeloCloud SQL Injection Zero-Day Exploited in Attacks",
           "link": "https://thehackernews.com/2026/10/arista-warns-of-critical-velocloud-sql.html",
           "pubDate": "2026-10-22T19:05:17+00:00"
-        },
-        {
-          "title": "eMudhra to Exit Global SSL/TLS Business After 8 Intermediate CA Keys Found Easily Guessable",
-          "link": "https://thehackernews.com/2026/10/emudhra-to-exit-global-ssltls-business.html",
-          "pubDate": "2026-10-22T18:12:43+00:00"
-        },
-        {
-          "title": "ThreatsDay: AI Secrets Leak, PingCAP Source Theft, Signal Hang-Up Flaw, Laravel Auth Bypass + 21 More",
-          "link": "https://thehackernews.com/2026/10/threatsday-ai-secrets-leak-pingcap.html",
-          "pubDate": "2026-10-22T17:45:44+00:00"
         }
       ]
     },
