@@ -1,11 +1,16 @@
 {
-  "updated": "2026-10-23T12:38:33.526563+00:00",
+  "updated": "2026-10-23T14:32:40.186541+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
         {
-          "title": "URGENT - PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+          "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
+          "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
+          "pubDate": "2026-10-23T13:50:56+00:00"
+        },
+        {
+          "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
           "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
           "pubDate": "2026-10-23T11:25:43+00:00"
         },
@@ -28,11 +33,6 @@
           "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
           "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
           "pubDate": "2026-10-23T08:35:45+00:00"
-        },
-        {
-          "title": "PHP2Shell Exploit Attempts Hit Millions as Attackers Try to Deploy Mirai Malware",
-          "link": "https://thehackernews.com/2026/10/php2shell-exploit-attempts-hit-millions.html",
-          "pubDate": "2026-10-23T07:40:45+00:00"
         }
       ]
     },
