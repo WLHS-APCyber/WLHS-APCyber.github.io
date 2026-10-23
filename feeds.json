@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T14:32:40.186541+00:00",
+  "updated": "2026-10-23T16:33:04.788028+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
@@ -10,7 +10,7 @@
           "pubDate": "2026-10-23T13:50:56+00:00"
         },
         {
-          "title": "PHP Warns of Another Unpatched RCE Two Days After Emergency PHP2Shell Patches",
+          "title": "PHP Warns of Another Unpatched RCE Risk Two Days After Emergency PHP2Shell Patches",
           "link": "https://thehackernews.com/2026/10/urgent-php-warns-of-another-unpatched.html",
           "pubDate": "2026-10-23T11:25:43+00:00"
         },
