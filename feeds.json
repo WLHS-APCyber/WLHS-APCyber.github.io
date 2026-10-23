@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-23T16:33:04.788028+00:00",
+  "updated": "2026-10-23T18:35:03.009799+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Ruby Fixes Three Regex Engine Bugs Responsible for Four Critical GitLab RCE Flaws",
+          "link": "https://thehackernews.com/2026/10/ruby-fixes-three-regex-engine-bugs.html",
+          "pubDate": "2026-10-23T17:54:08+00:00"
+        },
+        {
+          "title": "Exposed Infrastructure Reveals How Ransomware Affiliates Used AI Agents to Execute Intrusions",
+          "link": "https://thehackernews.com/2026/10/exposed-infrastructure-reveals-how.html",
+          "pubDate": "2026-10-23T17:50:47+00:00"
+        },
         {
           "title": "Hackers Breach Enterprise Firewalls and VPNs, Exposing Over 70,000 Credentials",
           "link": "https://thehackernews.com/2026/10/hackers-breach-enterprise-firewalls-and.html",
@@ -15,7 +25,7 @@
           "pubDate": "2026-10-23T11:25:43+00:00"
         },
         {
-          "title": "Russian-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
+          "title": "Russia-Linked Hackers Used New Mesh Network Backdoor in Destructive Ukraine Attack",
           "link": "https://thehackernews.com/2026/10/russian-linked-hackers-used-new-mesh.html",
           "pubDate": "2026-10-23T11:11:23+00:00"
         },
@@ -23,16 +33,6 @@
           "title": "Critical Flaw in Python’s Popular Pillow Image Library Allows Code Execution via a Crafted Image",
           "link": "https://thehackernews.com/2026/10/critical-flaw-in-pythons-popular-pillow.html",
           "pubDate": "2026-10-23T09:36:00+00:00"
-        },
-        {
-          "title": "Researchers Demonstrate Node2Shell RCE Exploit on Node.js Build Using Crafted Brotli Data",
-          "link": "https://thehackernews.com/2026/10/researchers-demonstrate-node2shell-rce.html",
-          "pubDate": "2026-10-23T08:40:43+00:00"
-        },
-        {
-          "title": "Critical x402 SDK Flaw Could Let Malicious APIs Drain AI Agents’ Token Balances",
-          "link": "https://thehackernews.com/2026/10/critical-x402-sdk-flaw-could-let.html",
-          "pubDate": "2026-10-23T08:35:45+00:00"
         }
       ]
     },
