@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-24T12:34:55.600272+00:00",
+  "updated": "2026-10-25T08:32:42.559636+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
+          "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
+          "pubDate": "2026-10-25T06:54:29+00:00"
+        },
         {
           "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
           "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
@@ -28,11 +33,6 @@
           "title": "CISA Flags Two Actively Exploited Critical Flaws in Collabora Online and Arista VeloCloud",
           "link": "https://thehackernews.com/2026/10/cisa-flags-two-actively-exploited.html",
           "pubDate": "2026-10-24T06:25:57+00:00"
-        },
-        {
-          "title": "BlackX UEFI Bootkit Bypasses Secure Boot on Patched Windows Systems Missing Revocations",
-          "link": "https://thehackernews.com/2026/10/blackx-uefi-bootkit-bypasses-secure.html",
-          "pubDate": "2026-10-23T18:50:13+00:00"
         }
       ]
     },
