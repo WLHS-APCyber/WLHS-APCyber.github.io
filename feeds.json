@@ -1,9 +1,24 @@
 {
-  "updated": "2026-10-26T10:32:48.556315+00:00",
+  "updated": "2026-10-26T14:06:15.891327+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
+          "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
+          "pubDate": "2026-10-26T11:52:41+00:00"
+        },
+        {
+          "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
+          "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
+          "pubDate": "2026-10-26T11:23:56+00:00"
+        },
+        {
+          "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
+          "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
+          "pubDate": "2026-10-26T09:54:02+00:00"
+        },
         {
           "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
           "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
@@ -18,21 +33,6 @@
           "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
           "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
           "pubDate": "2026-10-26T06:03:48+00:00"
-        },
-        {
-          "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
-          "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
-          "pubDate": "2026-10-25T17:44:09+00:00"
-        },
-        {
-          "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
-          "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
-          "pubDate": "2026-10-25T17:19:46+00:00"
-        },
-        {
-          "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
-          "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
-          "pubDate": "2026-10-25T06:54:29+00:00"
         }
       ]
     },
