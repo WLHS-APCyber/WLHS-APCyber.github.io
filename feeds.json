@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-26T14:06:15.891327+00:00",
+  "updated": "2026-10-26T15:12:56.344391+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
+          "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
+          "pubDate": "2026-10-26T14:06:13+00:00"
+        },
         {
           "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
           "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
@@ -28,11 +33,6 @@
           "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
           "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
           "pubDate": "2026-10-26T07:49:46+00:00"
-        },
-        {
-          "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
-          "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
-          "pubDate": "2026-10-26T06:03:48+00:00"
         }
       ]
     },
