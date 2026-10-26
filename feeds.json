@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-26T06:57:20.942213+00:00",
+  "updated": "2026-10-26T08:46:17.669483+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
+          "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
+          "pubDate": "2026-10-26T06:03:48+00:00"
+        },
         {
           "title": "Unpatched Tailscale SSH Flaws Could Let a Hacked Device Reach Root on Other Servers",
           "link": "https://thehackernews.com/2026/10/unpatched-tailscale-ssh-flaws-could-let.html",
@@ -28,11 +33,6 @@
           "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
           "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
           "pubDate": "2026-10-24T11:03:33+00:00"
-        },
-        {
-          "title": "Google Says Gmail and Photos Data Shared With AI Search Could Be Used for Targeted Ads",
-          "link": "https://thehackernews.com/2026/10/google-says-gmail-and-photos-data.html",
-          "pubDate": "2026-10-24T10:36:33+00:00"
         }
       ]
     },
