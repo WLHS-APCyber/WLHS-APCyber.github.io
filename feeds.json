@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-25T18:30:59.443585+00:00",
+  "updated": "2026-10-26T06:57:20.942213+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
@@ -10,7 +10,7 @@
           "pubDate": "2026-10-25T17:44:09+00:00"
         },
         {
-          "title": "PHP2Shell Exploitation Hits Government Entity Amid Global Scanning and Signs of AI-Assisted Hacking",
+          "title": "PHP2Shell Exploitation Attempts Continue Amid Suspected N. Korea Global Scanning Activity",
           "link": "https://thehackernews.com/2026/10/php2shell-exploitation-hits-government.html",
           "pubDate": "2026-10-25T17:19:46+00:00"
         },
