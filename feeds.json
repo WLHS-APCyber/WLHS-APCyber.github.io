@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-26T18:43:11.828324+00:00",
+  "updated": "2026-10-26T20:30:39.046681+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
+          "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
+          "pubDate": "2026-10-26T18:12:22+00:00"
+        },
         {
           "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
           "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
@@ -28,11 +33,6 @@
           "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
           "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
           "pubDate": "2026-10-26T11:23:56+00:00"
-        },
-        {
-          "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
-          "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
-          "pubDate": "2026-10-26T09:54:02+00:00"
         }
       ]
     },
