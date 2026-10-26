@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-26T15:12:56.344391+00:00",
+  "updated": "2026-10-26T18:43:11.828324+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "PHP Issues Second Windows Security Update in Five Days to Fix Brotli Code Execution Flaw",
+          "link": "https://thehackernews.com/2026/10/php-issues-second-windows-security.html",
+          "pubDate": "2026-10-26T17:45:57+00:00"
+        },
+        {
+          "title": "Attackers Use Microsoft Teams IT Support Scams to Deploy Malware and Ransomware",
+          "link": "https://thehackernews.com/2026/10/attackers-use-microsoft-teams-it.html",
+          "pubDate": "2026-10-26T15:52:40+00:00"
+        },
         {
           "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
           "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
@@ -23,16 +33,6 @@
           "title": "uCreator Android Spyware Can Steal Telegram 2FA Passwords and Clone WeChat Accounts",
           "link": "https://thehackernews.com/2026/10/ucreator-android-spyware-can-steal.html",
           "pubDate": "2026-10-26T09:54:02+00:00"
-        },
-        {
-          "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
-          "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
-          "pubDate": "2026-10-26T08:35:51+00:00"
-        },
-        {
-          "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
-          "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
-          "pubDate": "2026-10-26T07:49:46+00:00"
         }
       ]
     },
