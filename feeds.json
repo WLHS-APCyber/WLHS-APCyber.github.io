@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-26T08:46:17.669483+00:00",
+  "updated": "2026-10-26T10:32:48.556315+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Microsoft 365 Token-Replay Attacks Compromise 97 Accounts at 79 Organizations",
+          "link": "https://thehackernews.com/2026/10/microsoft-365-token-replay-attacks.html",
+          "pubDate": "2026-10-26T08:35:51+00:00"
+        },
+        {
+          "title": "Gheist Uses Stolen GitHub Tokens to Steal Private Repository Secrets via Actions Logs",
+          "link": "https://thehackernews.com/2026/10/gheist-uses-stolen-github-tokens-to.html",
+          "pubDate": "2026-10-26T07:49:46+00:00"
+        },
         {
           "title": "Malicious File in Downloads Folder Tries to Trick AI Coding Agent Into Installing Malware",
           "link": "https://thehackernews.com/2026/10/malicious-file-in-downloads-folder.html",
@@ -23,16 +33,6 @@
           "title": "OpenAI AI Agents Demonstrate VM Escapes and Secret Cross-Sandbox Communication",
           "link": "https://thehackernews.com/2026/10/openai-ai-agents-demonstrate-vm-escapes.html",
           "pubDate": "2026-10-25T06:54:29+00:00"
-        },
-        {
-          "title": "Brotli Decoder Flaw Behind Node.js RCE Also Affects Bun, Python and Other Widely Used Software",
-          "link": "https://thehackernews.com/2026/10/brotli-decoder-flaw-behind-nodejs-rce.html",
-          "pubDate": "2026-10-24T11:09:29+00:00"
-        },
-        {
-          "title": "Leaked LiteLLM Master Key Let Attackers Steal GitHub Tokens and Hijack Release Pipeline",
-          "link": "https://thehackernews.com/2026/10/leaked-litellm-master-key-let-attackers.html",
-          "pubDate": "2026-10-24T11:03:33+00:00"
         }
       ]
     },
