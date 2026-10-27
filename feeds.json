@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-27T06:45:35.330213+00:00",
+  "updated": "2026-10-27T08:37:57.389957+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Attackers Hijack Dahua IP Cameras in Ukraine Using P2P Access and Auth Weaknesses",
+          "link": "https://thehackernews.com/2026/10/attackers-hijack-dahua-ip-cameras-in.html",
+          "pubDate": "2026-10-27T06:34:47+00:00"
+        },
         {
           "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
           "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
@@ -28,17 +33,17 @@
           "title": "⚡ Weekly Recap: This2Shell, That2Shell, Everything's an RCE? Rogue AI, Supply Chain Chaos and More",
           "link": "https://thehackernews.com/2026/10/weekly-recap-this2shell-that2shell.html",
           "pubDate": "2026-10-26T14:06:13+00:00"
-        },
-        {
-          "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
-          "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
-          "pubDate": "2026-10-26T11:52:41+00:00"
         }
       ]
     },
     "hibp": {
       "url": "https://haveibeenpwned.com/feed/breaches/",
       "items": [
+        {
+          "title": "AfD - 345,439 breached accounts",
+          "link": "https://haveibeenpwned.com/Breach/AfD",
+          "pubDate": "2026-10-27T07:01:06+00:00"
+        },
         {
           "title": "Assurance Retraite - 70,372 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/AssuranceRetraite",
@@ -63,11 +68,6 @@
           "title": "Neogen - 435,963 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/Neogen",
           "pubDate": "2026-10-09T07:06:25+00:00"
-        },
-        {
-          "title": "CyrusOne - 373,460 breached accounts",
-          "link": "https://haveibeenpwned.com/Breach/CyrusOne",
-          "pubDate": "2026-10-07T23:19:16+00:00"
         }
       ]
     }
