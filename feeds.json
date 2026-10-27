@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-26T20:30:39.046681+00:00",
+  "updated": "2026-10-27T06:45:35.330213+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "CISA Confirms Active Exploitation of Two PHP2Shell Flaws Enabling Remote Code Execution",
+          "link": "https://thehackernews.com/2026/10/cisa-confirms-active-exploitation-of.html",
+          "pubDate": "2026-10-27T04:37:59+00:00"
+        },
         {
           "title": "Hackers Infect 953 Online Stores With Scanner-Evading JavaScript, Mostly on Magento",
           "link": "https://thehackernews.com/2026/10/hackers-infect-953-online-stores-with.html",
@@ -28,11 +33,6 @@
           "title": "Two Critical Wasmtime Flaws Could Let Malicious WebAssembly Modules Escape Sandboxes",
           "link": "https://thehackernews.com/2026/10/two-critical-wasmtime-flaws-could-let.html",
           "pubDate": "2026-10-26T11:52:41+00:00"
-        },
-        {
-          "title": "Between alerts: What Attackers Do in the Spaces Ordinary Detection Misses",
-          "link": "https://thehackernews.com/2026/10/between-alerts-what-attackers-do-in.html",
-          "pubDate": "2026-10-26T11:23:56+00:00"
         }
       ]
     },
