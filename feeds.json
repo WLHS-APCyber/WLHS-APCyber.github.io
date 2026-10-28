@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-28T08:27:39.722703+00:00",
+  "updated": "2026-10-28T12:31:00.171575+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
+          "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
+          "pubDate": "2026-10-28T11:15:51+00:00"
+        },
+        {
+          "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
+          "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
+          "pubDate": "2026-10-28T10:30:00+00:00"
+        },
         {
           "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
           "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
@@ -23,16 +33,6 @@
           "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
           "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
           "pubDate": "2026-10-28T06:20:37+00:00"
-        },
-        {
-          "title": "ShinyHunters-Exploited Oracle PeopleSoft Zero-Day Turns Out to Be Three Chained Flaws",
-          "link": "https://thehackernews.com/2026/10/shinyhunters-exploited-oracle.html",
-          "pubDate": "2026-10-28T06:04:58+00:00"
-        },
-        {
-          "title": "Adobe Commerce PolyShell Attacks Breach Hundreds of Stores as Brotli Exploit Traffic Emerges",
-          "link": "https://thehackernews.com/2026/10/adobe-commerce-polyshell-attacks-breach.html",
-          "pubDate": "2026-10-28T05:42:26+00:00"
         }
       ]
     },
