@@ -1,9 +1,24 @@
 {
-  "updated": "2026-10-28T12:31:00.171575+00:00",
+  "updated": "2026-10-28T14:24:04.747492+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
+          "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
+          "pubDate": "2026-10-28T12:48:03+00:00"
+        },
+        {
+          "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
+          "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
+          "pubDate": "2026-10-28T11:50:00+00:00"
+        },
+        {
+          "title": "Wazuh and AI for Enhanced SOC Workflows",
+          "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
+          "pubDate": "2026-10-28T11:30:00+00:00"
+        },
         {
           "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
           "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
@@ -18,21 +33,6 @@
           "title": "Anthropic's Unreleased AI Model Chains Flaws Into Working Chrome, Safari, Windows and Linux Exploits",
           "link": "https://thehackernews.com/2026/10/anthropics-unreleased-ai-model-chains.html",
           "pubDate": "2026-10-28T08:15:07+00:00"
-        },
-        {
-          "title": "FBI Seizes Virtualine Domain Over Alleged Criminal Hosting and Bitcoin Money Laundering",
-          "link": "https://thehackernews.com/2026/10/fbi-seizes-virtualine-domain-over.html",
-          "pubDate": "2026-10-28T07:37:50+00:00"
-        },
-        {
-          "title": "Japan's GMO Offers $1 Million Bounty to Catch Hackers Behind FX Trading Cloud Breach",
-          "link": "https://thehackernews.com/2026/10/japans-gmo-offers-1-million-bounty-to.html",
-          "pubDate": "2026-10-28T07:13:21+00:00"
-        },
-        {
-          "title": "Tailscale Patches SSH Flaws That Could Let Hacked Devices Gain Root Access on Other Servers",
-          "link": "https://thehackernews.com/2026/10/tailscale-patches-ssh-flaws-that-could.html",
-          "pubDate": "2026-10-28T06:20:37+00:00"
         }
       ]
     },
