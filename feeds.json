@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-28T18:26:53.101932+00:00",
+  "updated": "2026-10-28T20:23:38.189970+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
+          "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
+          "pubDate": "2026-10-28T18:08:33+00:00"
+        },
         {
           "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
           "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
@@ -28,11 +33,6 @@
           "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
           "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
           "pubDate": "2026-10-28T11:50:00+00:00"
-        },
-        {
-          "title": "Wazuh and AI for Enhanced SOC Workflows",
-          "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
-          "pubDate": "2026-10-28T11:30:00+00:00"
         }
       ]
     },
