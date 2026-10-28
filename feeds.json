@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-28T16:25:13.781694+00:00",
+  "updated": "2026-10-28T18:26:53.101932+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
+          "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
+          "pubDate": "2026-10-28T17:08:09+00:00"
+        },
+        {
+          "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
+          "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
+          "pubDate": "2026-10-28T16:23:34+00:00"
+        },
         {
           "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
           "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
@@ -23,16 +33,6 @@
           "title": "Wazuh and AI for Enhanced SOC Workflows",
           "link": "https://thehackernews.com/2026/10/wazuh-and-ai-for-enhanced-soc-workflows.html",
           "pubDate": "2026-10-28T11:30:00+00:00"
-        },
-        {
-          "title": "Adobe Fixes 8 Critical Campaign Classic Flaws Allowing Code Execution and Security Bypass",
-          "link": "https://thehackernews.com/2026/10/adobe-fixes-8-critical-campaign-classic.html",
-          "pubDate": "2026-10-28T11:15:51+00:00"
-        },
-        {
-          "title": "American Organizations Under Attack: Skyw4lker Device Code Phishing Campaign Exposed",
-          "link": "https://thehackernews.com/2026/10/american-organizations-under-attack.html",
-          "pubDate": "2026-10-28T10:30:00+00:00"
         }
       ]
     },
