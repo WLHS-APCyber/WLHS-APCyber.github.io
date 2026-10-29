@@ -1,38 +1,38 @@
 {
-  "updated": "2026-10-29T10:23:18.333144+00:00",
+  "updated": "2026-10-29T12:31:21.181758+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
         {
-          "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
-          "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
-          "pubDate": "2026-10-29T08:24:22+00:00"
+          "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
+          "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
+          "pubDate": "2026-10-29T11:39:41+00:00"
         },
         {
-          "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
-          "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
-          "pubDate": "2026-10-29T06:22:33+00:00"
+          "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
+          "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
+          "pubDate": "2026-10-29T11:39:18+00:00"
         },
         {
-          "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
-          "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
-          "pubDate": "2026-10-29T05:50:17+00:00"
+          "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
+          "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
+          "pubDate": "2026-10-29T11:33:41+00:00"
         },
         {
-          "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
-          "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
-          "pubDate": "2026-10-28T18:08:33+00:00"
+          "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
+          "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
+          "pubDate": "2026-10-29T11:33:15+00:00"
         },
         {
-          "title": "Google to Allow One-Tap Android App Installs From Approved Third-Party Stores Outside U.S.",
-          "link": "https://thehackernews.com/2026/10/google-to-allow-one-tap-android-app.html",
-          "pubDate": "2026-10-28T17:08:09+00:00"
+          "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
+          "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
+          "pubDate": "2026-10-29T10:44:46+00:00"
         },
         {
-          "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
-          "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
-          "pubDate": "2026-10-28T16:23:34+00:00"
+          "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
+          "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
+          "pubDate": "2026-10-29T10:26:33+00:00"
         }
       ]
     },
