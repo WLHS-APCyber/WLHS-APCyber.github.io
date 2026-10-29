@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-29T16:25:32.112181+00:00",
+  "updated": "2026-10-29T18:26:58.751088+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
+          "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
+          "pubDate": "2026-10-29T15:57:05+00:00"
+        },
         {
           "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
           "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
@@ -28,11 +33,6 @@
           "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
           "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
           "pubDate": "2026-10-29T11:33:41+00:00"
-        },
-        {
-          "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
-          "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
-          "pubDate": "2026-10-29T11:33:15+00:00"
         }
       ]
     },
