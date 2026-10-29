@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-29T08:28:08.060019+00:00",
+  "updated": "2026-10-29T10:23:18.333144+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Exploited Cisco SD-WAN Flaw to Plant Malware Built to Steal Encryption Keys",
+          "link": "https://thehackernews.com/2026/10/hackers-exploited-cisco-sd-wan-flaw-to.html",
+          "pubDate": "2026-10-29T08:24:22+00:00"
+        },
         {
           "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
           "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
@@ -28,11 +33,6 @@
           "title": "Researcher Reveals How Logic Bugs Alone Cracked Microsoft Edge in $175,000 Pwn2Own Win",
           "link": "https://thehackernews.com/2026/10/researcher-reveals-how-logic-bugs-alone.html",
           "pubDate": "2026-10-28T16:23:34+00:00"
-        },
-        {
-          "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
-          "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
-          "pubDate": "2026-10-28T16:02:45+00:00"
         }
       ]
     },
