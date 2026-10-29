@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-29T12:31:21.181758+00:00",
+  "updated": "2026-10-29T14:24:54.863108+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
+          "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
+          "pubDate": "2026-10-29T13:42:40+00:00"
+        },
         {
           "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
           "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
@@ -28,11 +33,6 @@
           "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
           "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
           "pubDate": "2026-10-29T10:44:46+00:00"
-        },
-        {
-          "title": "GitHub Launches npm Firewall to Block Malicious Packages Before Installation",
-          "link": "https://thehackernews.com/2026/10/github-launches-npm-firewall-to-block.html",
-          "pubDate": "2026-10-29T10:26:33+00:00"
         }
       ]
     },
