@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-29T14:24:54.863108+00:00",
+  "updated": "2026-10-29T16:25:32.112181+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
+          "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
+          "pubDate": "2026-10-29T15:20:29+00:00"
+        },
         {
           "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
           "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
@@ -28,11 +33,6 @@
           "title": "26,400 Valid Cloud and AI Credentials Found Exposed in Public Gitee Repositories",
           "link": "https://thehackernews.com/2026/10/26400-valid-cloud-and-ai-credentials.html",
           "pubDate": "2026-10-29T11:33:15+00:00"
-        },
-        {
-          "title": "Cisco Patches Actively Exploited ASA and FTD VPN Flaw That Can Crash Firewalls",
-          "link": "https://thehackernews.com/2026/10/cisco-patches-actively-exploited-asa.html",
-          "pubDate": "2026-10-29T10:44:46+00:00"
         }
       ]
     },
