@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-28T20:23:38.189970+00:00",
+  "updated": "2026-10-29T08:28:08.060019+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "China-Linked Hackers Exploited VMware ESX Zero-Day to Reduce Audit Trail Visibility",
+          "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited-vmware.html",
+          "pubDate": "2026-10-29T06:22:33+00:00"
+        },
+        {
+          "title": "Attackers Exploit PHP2Shell Flaws in Internet-Exposed Palo Alto Networks Management Interfaces",
+          "link": "https://thehackernews.com/2026/10/attackers-exploit-php2shell-flaws-in.html",
+          "pubDate": "2026-10-29T05:50:17+00:00"
+        },
         {
           "title": "Volt Typhoon Used Covert Silent Train Network in Four Zero-Day Exploitation Campaigns",
           "link": "https://thehackernews.com/2026/10/volt-typhoon-used-covert-silent-train.html",
@@ -23,16 +33,6 @@
           "title": "PHP2Shell Attack Roots 25 Servers, Breaches U.S. Government-Affiliated Network",
           "link": "https://thehackernews.com/2026/10/php2shell-attack-roots-25-servers.html",
           "pubDate": "2026-10-28T16:02:45+00:00"
-        },
-        {
-          "title": "Hackers Target Critical Oracle E-Business Suite RCE Flaw Days After Security Patch",
-          "link": "https://thehackernews.com/2026/10/hackers-target-critical-oracle-e.html",
-          "pubDate": "2026-10-28T12:48:03+00:00"
-        },
-        {
-          "title": "Critical 16-Year-Old UEFI Flaw Can Run Code Before Secure Boot on Network-Booting Servers",
-          "link": "https://thehackernews.com/2026/10/critical-16-year-old-uefi-flaw-can-run.html",
-          "pubDate": "2026-10-28T11:50:00+00:00"
         }
       ]
     },
