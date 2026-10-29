@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-29T18:26:58.751088+00:00",
+  "updated": "2026-10-29T20:23:25.630612+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "ThreatsDay: Critical Firewall Flaws, Banking Trojans Rented, Weaponized PDF, Token Theft + 26 More Stories",
+          "link": "https://thehackernews.com/2026/10/threatsday-critical-firewall-flaws.html",
+          "pubDate": "2026-10-29T19:11:58+00:00"
+        },
         {
           "title": "Linux Kernel TCP Flaw With 9.8 CVSS Score Affects Ubuntu, Red Hat and Other Distributions",
           "link": "https://thehackernews.com/2026/10/linux-kernel-tcp-flaw-with-98-cvss.html",
@@ -28,11 +33,6 @@
           "title": "Telegram Android Flaw Lets Attackers Run Code When Users Answer Voice Calls",
           "link": "https://thehackernews.com/2026/10/telegram-android-flaw-lets-attackers.html",
           "pubDate": "2026-10-29T11:39:18+00:00"
-        },
-        {
-          "title": "The Rise of the Threat Operator: How AI Will Redefine Security Operations and Careers",
-          "link": "https://thehackernews.com/2026/10/the-rise-of-threat-operator-how-ai-will.html",
-          "pubDate": "2026-10-29T11:33:41+00:00"
         }
       ]
     },
