@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-30T08:27:15.369673+00:00",
+  "updated": "2026-10-30T10:22:56.112296+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
+          "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
+          "pubDate": "2026-10-30T07:45:30+00:00"
+        },
         {
           "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
           "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
@@ -28,11 +33,6 @@
           "title": "Fake ChatGPT and Claude Apps Abuse Signed Executables to Deploy Crypto Miners",
           "link": "https://thehackernews.com/2026/10/fake-chatgpt-and-claude-apps-abuse.html",
           "pubDate": "2026-10-29T15:20:29+00:00"
-        },
-        {
-          "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
-          "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
-          "pubDate": "2026-10-29T13:42:40+00:00"
         }
       ]
     },
