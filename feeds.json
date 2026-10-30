@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-30T06:33:45.830661+00:00",
+  "updated": "2026-10-30T08:27:15.369673+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
+          "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
+          "pubDate": "2026-10-30T07:27:05+00:00"
+        },
         {
           "title": "Binance Suffers Security Breach Affecting $6.3 Billion in Assets, Nearly $3 Billion Frozen",
           "link": "https://thehackernews.com/2026/10/binance-suffers-security-breach.html",
@@ -28,11 +33,6 @@
           "title": "Google's Gemini 4 Carbon Leads Benchmarks for Finding, Exploiting, and Patching Vulnerabilities",
           "link": "https://thehackernews.com/2026/10/googles-gemini-4-carbon-leads.html",
           "pubDate": "2026-10-29T13:42:40+00:00"
-        },
-        {
-          "title": "Webinar: How to Build AI Threat Readiness Into Your Security Operations",
-          "link": "https://thehackernews.com/2026/08/learn-how-to-build-security-operations.html",
-          "pubDate": "2026-10-29T11:39:41+00:00"
         }
       ]
     },
