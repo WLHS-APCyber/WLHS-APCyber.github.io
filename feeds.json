@@ -1,9 +1,24 @@
 {
-  "updated": "2026-10-30T12:31:17.238529+00:00",
+  "updated": "2026-10-30T18:23:06.754919+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
+          "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
+          "pubDate": "2026-10-30T16:58:44+00:00"
+        },
+        {
+          "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
+          "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
+          "pubDate": "2026-10-30T15:17:28+00:00"
+        },
+        {
+          "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
+          "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
+          "pubDate": "2026-10-30T14:08:14+00:00"
+        },
         {
           "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
           "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
@@ -18,21 +33,6 @@
           "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
           "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
           "pubDate": "2026-10-30T10:40:45+00:00"
-        },
-        {
-          "title": "Official Claude Code Extension on Cursor Marketplace Trojanized with Persistent SSH Backdoor",
-          "link": "https://thehackernews.com/2026/10/official-claude-code-vs-code-extension.html",
-          "pubDate": "2026-10-30T08:55:47+00:00"
-        },
-        {
-          "title": "Hackers Actively Exploit Highly Critical Drupal Commerce Core Authorization Bypass Flaw",
-          "link": "https://thehackernews.com/2026/10/hackers-actively-exploit-highly.html",
-          "pubDate": "2026-10-30T07:45:30+00:00"
-        },
-        {
-          "title": "CISA Adds Actively Exploited GitLab RCE and Cisco Firewall DoS Flaws to KEV",
-          "link": "https://thehackernews.com/2026/10/cisa-adds-actively-exploited-gitlab-rce.html",
-          "pubDate": "2026-10-30T07:27:05+00:00"
         }
       ]
     },
