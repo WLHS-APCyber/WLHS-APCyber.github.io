@@ -1,9 +1,19 @@
 {
-  "updated": "2026-10-30T18:23:06.754919+00:00",
+  "updated": "2026-10-31T06:26:26.729171+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
+          "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
+          "pubDate": "2026-10-31T05:33:41+00:00"
+        },
+        {
+          "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
+          "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
+          "pubDate": "2026-10-31T04:56:12+00:00"
+        },
         {
           "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
           "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
@@ -23,16 +33,6 @@
           "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
           "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
           "pubDate": "2026-10-30T12:21:56+00:00"
-        },
-        {
-          "title": "Why Urgent Security Fixes Aren't Fixed. Observe, Prove, Act, Confirm Gets Them Moving",
-          "link": "https://thehackernews.com/2026/10/why-urgent-security-fixes-arent-fixed.html",
-          "pubDate": "2026-10-30T11:58:53+00:00"
-        },
-        {
-          "title": "Syrian Hacker Behind Fake Tweet That Triggered $136 Billion Market Drop Gets 42 Months in Prison",
-          "link": "https://thehackernews.com/2026/10/syrian-hacker-behind-fake-tweet-that.html",
-          "pubDate": "2026-10-30T10:40:45+00:00"
         }
       ]
     },
