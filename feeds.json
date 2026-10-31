@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-31T06:26:26.729171+00:00",
+  "updated": "2026-10-31T10:21:02.460800+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
+          "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
+          "pubDate": "2026-10-31T08:27:43+00:00"
+        },
         {
           "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
           "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
@@ -28,11 +33,6 @@
           "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
           "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
           "pubDate": "2026-10-30T14:08:14+00:00"
-        },
-        {
-          "title": "Trezor Warns of Suspected Hardware Implant in One of Its Wallets Sold by CryptoBilis",
-          "link": "https://thehackernews.com/2026/10/trezor-warns-of-suspected-hardware.html",
-          "pubDate": "2026-10-30T12:21:56+00:00"
         }
       ]
     },
