@@ -1,9 +1,14 @@
 {
-  "updated": "2026-10-31T10:21:02.460800+00:00",
+  "updated": "2026-10-31T12:23:34.702951+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+          "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
+          "pubDate": "2026-10-31T12:01:56+00:00"
+        },
         {
           "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
           "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
@@ -28,11 +33,6 @@
           "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
           "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
           "pubDate": "2026-10-30T15:17:28+00:00"
-        },
-        {
-          "title": "WordPress RCE Flaw Draws Nearly 63,000 Attack Attempts in Just 24 Hours",
-          "link": "https://thehackernews.com/2026/10/wordpress-rce-flaw-draws-nearly-63000.html",
-          "pubDate": "2026-10-30T14:08:14+00:00"
         }
       ]
     },
