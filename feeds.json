@@ -1,23 +1,28 @@
 {
-  "updated": "2026-11-01T08:22:09.587669+00:00",
+  "updated": "2026-11-01T10:20:51.563369+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
+          "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
+          "pubDate": "2026-11-01T08:51:31+00:00"
+        },
         {
           "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
           "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
           "pubDate": "2026-11-01T07:25:40+00:00"
         },
         {
+          "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+          "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+          "pubDate": "2026-11-01T07:03:00+00:00"
+        },
+        {
           "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
           "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
           "pubDate": "2026-11-01T07:02:58+00:00"
-        },
-        {
-          "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-          "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-          "pubDate": "2026-11-01T06:44:27+00:00"
         },
         {
           "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
@@ -28,11 +33,6 @@
           "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
           "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
           "pubDate": "2026-10-31T08:27:43+00:00"
-        },
-        {
-          "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
-          "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
-          "pubDate": "2026-10-31T05:33:41+00:00"
         }
       ]
     },
