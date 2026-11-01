@@ -1,9 +1,24 @@
 {
-  "updated": "2026-10-31T12:23:34.702951+00:00",
+  "updated": "2026-11-01T08:22:09.587669+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
+          "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
+          "pubDate": "2026-11-01T07:25:40+00:00"
+        },
+        {
+          "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
+          "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
+          "pubDate": "2026-11-01T07:02:58+00:00"
+        },
+        {
+          "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
+          "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
+          "pubDate": "2026-11-01T06:44:27+00:00"
+        },
         {
           "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
           "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
@@ -18,21 +33,6 @@
           "title": "A Shared ChatGPT Link Could Run Attacker Code in Your Session and Read Private Chats",
           "link": "https://thehackernews.com/2026/10/a-shared-chatgpt-link-could-run.html",
           "pubDate": "2026-10-31T05:33:41+00:00"
-        },
-        {
-          "title": "Cloudflare Reports 18.2 Million Network-Layer DDoS Attacks in Q3, Up 38%",
-          "link": "https://thehackernews.com/2026/10/cloudflare-reports-182-million-network.html",
-          "pubDate": "2026-10-31T04:56:12+00:00"
-        },
-        {
-          "title": "Chinese Hackers Use AI-Powered ARTEX to Target Over 200 Organizations Worldwide",
-          "link": "https://thehackernews.com/2026/10/chinese-hackers-use-ai-powered-artex-to.html",
-          "pubDate": "2026-10-30T16:58:44+00:00"
-        },
-        {
-          "title": "TeamViewer Flaw Lets Remote Computers Attack Users Who Connect to Control Them",
-          "link": "https://thehackernews.com/2026/10/teamviewer-flaw-lets-remote-computers.html",
-          "pubDate": "2026-10-30T15:17:28+00:00"
         }
       ]
     },
