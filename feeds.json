@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-01T10:20:51.563369+00:00",
+  "updated": "2026-11-02T06:37:46.809016+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
+          "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
+          "pubDate": "2026-11-02T05:51:07+00:00"
+        },
         {
           "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
           "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
@@ -28,11 +33,6 @@
           "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
           "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
           "pubDate": "2026-10-31T12:01:56+00:00"
-        },
-        {
-          "title": "Attackers Chain Three Ivanti Connect Secure Flaws to Gain Unauthenticated Root Access",
-          "link": "https://thehackernews.com/2026/10/attackers-chain-three-ivanti-connect.html",
-          "pubDate": "2026-10-31T08:27:43+00:00"
         }
       ]
     },
