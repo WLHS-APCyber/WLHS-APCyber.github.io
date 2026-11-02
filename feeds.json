@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-02T12:27:02.636955+00:00",
+  "updated": "2026-11-02T14:23:06.887307+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
+          "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
+          "pubDate": "2026-11-02T11:50:00+00:00"
+        },
+        {
+          "title": "Is Your SOC Ready for AI Agents? A Maturity Check Before You Deploy",
+          "link": "https://thehackernews.com/2026/11/is-your-soc-ready-for-ai-agents.html",
+          "pubDate": "2026-11-02T11:30:00+00:00"
+        },
         {
           "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
           "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
@@ -23,16 +33,6 @@
           "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
           "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
           "pubDate": "2026-11-01T08:51:31+00:00"
-        },
-        {
-          "title": "Hackers Steal About $2.7 Million From Polymarket Traders via Hijacked DebugBear Script",
-          "link": "https://thehackernews.com/2026/11/hackers-steal-about-27-million-from.html",
-          "pubDate": "2026-11-01T07:25:40+00:00"
-        },
-        {
-          "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
-          "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
-          "pubDate": "2026-11-01T07:03:00+00:00"
         }
       ]
     },
