@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-02T06:37:46.809016+00:00",
+  "updated": "2026-11-02T12:27:02.636955+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
+          "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
+          "pubDate": "2026-11-02T11:08:45+00:00"
+        },
+        {
+          "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
+          "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
+          "pubDate": "2026-11-02T10:49:59+00:00"
+        },
         {
           "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
           "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
@@ -23,16 +33,6 @@
           "title": "FBI Links North Korea's TraderTraitor to Record $6.43 Billion Binance Crypto Heist",
           "link": "https://thehackernews.com/2026/11/fbi-links-north-koreas-tradertraitor-to.html",
           "pubDate": "2026-11-01T07:03:00+00:00"
-        },
-        {
-          "title": "NetamLoader Malware Targets Government Windows 10 Systems in Asia via .NET Injection",
-          "link": "https://thehackernews.com/2026/11/netamloader-malware-targets-government.html",
-          "pubDate": "2026-11-01T07:02:58+00:00"
-        },
-        {
-          "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
-          "link": "https://thehackernews.com/2026/10/chainalysis-confirms-intrusion-into.html",
-          "pubDate": "2026-10-31T12:01:56+00:00"
         }
       ]
     },
