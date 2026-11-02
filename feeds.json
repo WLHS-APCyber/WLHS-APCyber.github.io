@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-02T14:23:06.887307+00:00",
+  "updated": "2026-11-02T16:23:32.732739+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "DarkBlinders Compromises Israeli Target and Iraqi Kurdish Government Cloud Environment",
+          "link": "https://thehackernews.com/2026/11/darkblinders-compromises-israeli-target.html",
+          "pubDate": "2026-11-02T14:46:05+00:00"
+        },
         {
           "title": "Critical Langflow Flaws Could Let Unauthenticated Attackers Run Code on Servers",
           "link": "https://thehackernews.com/2026/11/critical-langflow-flaws-could-let.html",
@@ -28,11 +33,6 @@
           "title": "New VOLTA Infostealer Uses Claude, Gemini, and Kimi AI to Rank Victims by Financial Value",
           "link": "https://thehackernews.com/2026/11/new-volta-infostealer-uses-claude.html",
           "pubDate": "2026-11-02T05:51:07+00:00"
-        },
-        {
-          "title": "CVSS 10.0 LXD, MicroCloud Flaw Lets Attackers Impersonate Trusted Clients Without a Private Key",
-          "link": "https://thehackernews.com/2026/11/critical-lxd-and-microcloud-flaw-cvss.html",
-          "pubDate": "2026-11-01T08:51:31+00:00"
         }
       ]
     },
