@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-02T18:23:46.234683+00:00",
+  "updated": "2026-11-02T20:20:51.212312+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
+          "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
+          "pubDate": "2026-11-02T16:57:56+00:00"
+        },
         {
           "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
           "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
@@ -28,11 +33,6 @@
           "title": "Attackers Pose as IT Support on Microsoft Teams, Abuse AD CS to Steal Company Data",
           "link": "https://thehackernews.com/2026/11/attackers-pose-as-it-support-on.html",
           "pubDate": "2026-11-02T11:08:45+00:00"
-        },
-        {
-          "title": "Government Linux Servers Targeted With SysGoRAT and Suspected AI-Generated Scripts",
-          "link": "https://thehackernews.com/2026/11/government-linux-servers-targeted-with.html",
-          "pubDate": "2026-11-02T10:49:59+00:00"
         }
       ]
     },
