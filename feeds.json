@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-03T10:21:06.215353+00:00",
+  "updated": "2026-11-03T14:21:49.051010+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
+          "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
+          "pubDate": "2026-11-03T11:23:53+00:00"
+        },
+        {
+          "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
+          "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
+          "pubDate": "2026-11-03T11:18:20+00:00"
+        },
+        {
+          "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
+          "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
+          "pubDate": "2026-11-03T11:00:45+00:00"
+        },
         {
           "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
           "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
@@ -18,21 +33,6 @@
           "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
           "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
           "pubDate": "2026-11-03T07:27:07+00:00"
-        },
-        {
-          "title": "Attackers Exploit Critical Siemens IoT2050 Flaw to Plant Remote Command Backdoors",
-          "link": "https://thehackernews.com/2026/11/attackers-exploit-critical-siemens.html",
-          "pubDate": "2026-11-03T05:34:41+00:00"
-        },
-        {
-          "title": "Attackers Target Unpatched CryptoPayment Gateway Flaw That Can Expose Wallet Credentials",
-          "link": "https://thehackernews.com/2026/11/attackers-target-unpatched.html",
-          "pubDate": "2026-11-03T05:34:37+00:00"
-        },
-        {
-          "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
-          "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
-          "pubDate": "2026-11-02T16:57:56+00:00"
         }
       ]
     },
