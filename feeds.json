@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-03T14:21:49.051010+00:00",
+  "updated": "2026-11-03T16:22:37.924507+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
+          "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
+          "pubDate": "2026-11-03T15:41:53+00:00"
+        },
+        {
+          "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
+          "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
+          "pubDate": "2026-11-03T15:16:32+00:00"
+        },
         {
           "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
           "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
@@ -23,16 +33,6 @@
           "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
           "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
           "pubDate": "2026-11-03T08:31:48+00:00"
-        },
-        {
-          "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
-          "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
-          "pubDate": "2026-11-03T07:43:07+00:00"
-        },
-        {
-          "title": "New Wave of Refrigeration Cyberattacks Hits Supermarkets Across Europe, Forcing Stores to Pull Food",
-          "link": "https://thehackernews.com/2026/11/second-wave-of-cyberattacks-hits.html",
-          "pubDate": "2026-11-03T07:27:07+00:00"
         }
       ]
     },
