@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-03T16:22:37.924507+00:00",
+  "updated": "2026-11-03T18:22:21.120331+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
+          "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
+          "pubDate": "2026-11-03T16:55:58+00:00"
+        },
+        {
+          "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
+          "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
+          "pubDate": "2026-11-03T15:59:19+00:00"
+        },
         {
           "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
           "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
@@ -23,16 +33,6 @@
           "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
           "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
           "pubDate": "2026-11-03T11:18:20+00:00"
-        },
-        {
-          "title": "Russia-Aligned Gorbag Hackers Exploit WinRAR Flaw to Deploy Data-Stealing Malware",
-          "link": "https://thehackernews.com/2026/11/russia-aligned-gorbag-hackers-exploit.html",
-          "pubDate": "2026-11-03T11:00:45+00:00"
-        },
-        {
-          "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
-          "pubDate": "2026-11-03T08:31:48+00:00"
         }
       ]
     },
