@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-03T08:24:23.262755+00:00",
+  "updated": "2026-11-03T10:21:06.215353+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Exploit BTCPay Server Flaw to Steal Bitcoin and Litecoin From Hot Wallets",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-btcpay-server-flaw-to.html",
+          "pubDate": "2026-11-03T08:31:48+00:00"
+        },
         {
           "title": "Synology NAS Devices Targeted in Ransomware Attacks Exploiting Patched DSM Flaw",
           "link": "https://thehackernews.com/2026/11/synology-nas-devices-targeted-in.html",
@@ -28,11 +33,6 @@
           "title": "⚡ Weekly Recap: Critical CVEs, Linux DDoS Botnet, Device-Code Phishing, Android Spyware and More",
           "link": "https://thehackernews.com/2026/11/weekly-recap-critical-cves-linux-ddos.html",
           "pubDate": "2026-11-02T16:57:56+00:00"
-        },
-        {
-          "title": "Google Disrupts 1.3 Million-Device Android Botnet, Says TV Box Maker Sold Criminal Access",
-          "link": "https://thehackernews.com/2026/11/google-disrupts-13-million-device.html",
-          "pubDate": "2026-11-02T15:50:26+00:00"
         }
       ]
     },
