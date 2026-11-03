@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-03T18:22:21.120331+00:00",
+  "updated": "2026-11-03T20:21:32.939923+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
+          "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
+          "pubDate": "2026-11-03T18:46:38+00:00"
+        },
+        {
+          "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
+          "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
+          "pubDate": "2026-11-03T18:16:19+00:00"
+        },
         {
           "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
           "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
@@ -23,16 +33,6 @@
           "title": "cPGuard Update Channel Hijacked to Backdoor Linux Servers and Collect Password Hashes",
           "link": "https://thehackernews.com/2026/11/cpguard-update-channel-hijacked-to.html",
           "pubDate": "2026-11-03T15:16:32+00:00"
-        },
-        {
-          "title": "Red Hat Patches 9.8-Rated Linux TCP RCE Flaw While Ubuntu Releases Fixes for Testing",
-          "link": "https://thehackernews.com/2026/11/red-hat-patches-98-rated-linux-tcp-rce.html",
-          "pubDate": "2026-11-03T11:23:53+00:00"
-        },
-        {
-          "title": "The 4 Elements of Exposure Prioritization and How to Operationalize Them",
-          "link": "https://thehackernews.com/2026/11/the-4-elements-of-exposure.html",
-          "pubDate": "2026-11-03T11:18:20+00:00"
         }
       ]
     },
