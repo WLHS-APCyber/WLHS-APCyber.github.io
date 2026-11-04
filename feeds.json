@@ -1,9 +1,29 @@
 {
-  "updated": "2026-11-04T10:22:29.742300+00:00",
+  "updated": "2026-11-04T12:26:31.088639+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
+          "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
+          "pubDate": "2026-11-04T12:07:04+00:00"
+        },
+        {
+          "title": "Xen Hypervisor Flaws Let One Malicious VM Read and Write Any Other VM's Memory",
+          "link": "https://thehackernews.com/2026/11/xen-hypervisor-flaws-let-one-malicious.html",
+          "pubDate": "2026-11-04T11:46:27+00:00"
+        },
+        {
+          "title": "Radio With No Radar: Why Agent Runtime Security Fails Without the Layers Beneath It",
+          "link": "https://thehackernews.com/2026/11/radio-with-no-radar-why-agent-runtime.html",
+          "pubDate": "2026-11-04T11:34:20+00:00"
+        },
+        {
+          "title": "China-Aligned Hackers Hijack Sogou Input Method DNS Requests to Deploy DarkVigil Backdoor",
+          "link": "https://thehackernews.com/2026/11/china-aligned-hackers-hijack-sogou.html",
+          "pubDate": "2026-11-04T11:24:31+00:00"
+        },
         {
           "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
           "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
@@ -13,26 +33,6 @@
           "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
           "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
           "pubDate": "2026-11-04T07:46:15+00:00"
-        },
-        {
-          "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
-          "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
-          "pubDate": "2026-11-04T05:43:11+00:00"
-        },
-        {
-          "title": "mSecure Warns Users to Change Passwords, Reset 2FA and Passkeys After Suspicious Activity",
-          "link": "https://thehackernews.com/2026/11/msecure-warns-users-to-change-passwords.html",
-          "pubDate": "2026-11-03T18:46:38+00:00"
-        },
-        {
-          "title": "Chainstack Reports Production Systems Breach Exposing Customer Data and Password Hashes",
-          "link": "https://thehackernews.com/2026/11/chainstack-reports-production-systems.html",
-          "pubDate": "2026-11-03T18:16:19+00:00"
-        },
-        {
-          "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
-          "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
-          "pubDate": "2026-11-03T16:55:58+00:00"
         }
       ]
     },
