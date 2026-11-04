@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-04T08:24:01.204716+00:00",
+  "updated": "2026-11-04T10:22:29.742300+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
+          "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
+          "pubDate": "2026-11-04T08:17:11+00:00"
+        },
+        {
+          "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
+          "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
+          "pubDate": "2026-11-04T07:46:15+00:00"
+        },
         {
           "title": "CISA Confirms Hackers Exploiting WordPress Core Flaw During Software Upgrades",
           "link": "https://thehackernews.com/2026/11/cisa-confirms-hackers-exploiting.html",
@@ -23,16 +33,6 @@
           "title": "Binance Reveals How Fake Job Interviews and AI Tool Abuse Led to $6.43 Billion Theft",
           "link": "https://thehackernews.com/2026/11/binance-reveals-how-fake-job-interviews.html",
           "pubDate": "2026-11-03T16:55:58+00:00"
-        },
-        {
-          "title": "Barracuda Flaws Could Be Chained to Bypass Authorization and Gain Root Access",
-          "link": "https://thehackernews.com/2026/11/barracuda-flaws-could-be-chained-to.html",
-          "pubDate": "2026-11-03T15:59:19+00:00"
-        },
-        {
-          "title": "Google Warns LLMjacking Attacks Are Costing Some Enterprises Up to $1 Million in Cloud Charges",
-          "link": "https://thehackernews.com/2026/11/google-warns-llmjacking-attacks-are.html",
-          "pubDate": "2026-11-03T15:41:53+00:00"
         }
       ]
     },
