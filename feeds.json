@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-04T12:26:31.088639+00:00",
+  "updated": "2026-11-04T16:21:07.614970+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "APT29-Linked Hackers Hijack Web Analytics Script to Deliver iOS and Android Exploits",
+          "link": "https://thehackernews.com/2026/11/apt29-linked-hackers-hijack-web.html",
+          "pubDate": "2026-11-04T14:27:52+00:00"
+        },
         {
           "title": "Critical Rails Flaw Lets Attackers Write Server Files via Crafted ImageMagick Uploads",
           "link": "https://thehackernews.com/2026/11/critical-rails-flaw-lets-attackers.html",
@@ -28,11 +33,6 @@
           "title": "Russian Police Arrest 3 Suspected VasyGrek Hackers, Dismantle Criminal Infrastructure",
           "link": "https://thehackernews.com/2026/11/russian-police-arrest-3-suspected.html",
           "pubDate": "2026-11-04T08:17:11+00:00"
-        },
-        {
-          "title": "Google Issues Patches for Critical Android Flaw That Could Allow RCE Without User Interaction",
-          "link": "https://thehackernews.com/2026/11/google-patches-critical-android-flaw.html",
-          "pubDate": "2026-11-04T07:46:15+00:00"
         }
       ]
     },
