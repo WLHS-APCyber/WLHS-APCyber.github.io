@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-05T12:27:23.629948+00:00",
+  "updated": "2026-11-05T14:21:50.030346+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Is Your Exposure Management Platform Leaving You Exposed? Five Tests to Find Out",
+          "link": "https://thehackernews.com/2026/11/is-your-exposure-management-platform.html",
+          "pubDate": "2026-11-05T12:25:00+00:00"
+        },
         {
           "title": "OpenAI AI Pipeline Generates 948 Linux Root Escalation Exploits in 30-Hour Run",
           "link": "https://thehackernews.com/2026/11/openai-ai-pipeline-generates-948-linux.html",
@@ -28,11 +33,6 @@
           "title": "Zyxel GS1900 Patch Fails to Block Zero-Day Exploit Allowing Root Command Execution",
           "link": "https://thehackernews.com/2026/11/zyxel-gs1900-patch-fails-to-block-zero.html",
           "pubDate": "2026-11-05T07:06:33+00:00"
-        },
-        {
-          "title": "Hackers Exploit Patched Apple Flaw to Deliver Info-Stealing Malware, CISA Says",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-patched-apple-flaw-to.html",
-          "pubDate": "2026-11-05T05:17:04+00:00"
         }
       ]
     },
