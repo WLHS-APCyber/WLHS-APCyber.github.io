@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-06T14:21:40.252950+00:00",
+  "updated": "2026-11-06T18:23:45.031539+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
+          "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
+          "pubDate": "2026-11-06T16:08:38+00:00"
+        },
+        {
+          "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
+          "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
+          "pubDate": "2026-11-06T15:21:49+00:00"
+        },
+        {
+          "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
+          "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
+          "pubDate": "2026-11-06T14:58:32+00:00"
+        },
         {
           "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
           "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
@@ -18,21 +33,6 @@
           "title": "The Flood is Coming And The Pipes Were Already Full",
           "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
           "pubDate": "2026-11-06T11:30:00+00:00"
-        },
-        {
-          "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
-          "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
-          "pubDate": "2026-11-06T08:04:49+00:00"
-        },
-        {
-          "title": "Hackers Hide Linux Backdoor in Control Web Panel Server to Execute Commands Without Logs",
-          "link": "https://thehackernews.com/2026/11/hackers-hide-linux-backdoor-in-control.html",
-          "pubDate": "2026-11-06T05:58:54+00:00"
-        },
-        {
-          "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
-          "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
-          "pubDate": "2026-11-06T05:39:10+00:00"
         }
       ]
     },
