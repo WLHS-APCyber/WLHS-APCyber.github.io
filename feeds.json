@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-06T10:21:01.983421+00:00",
+  "updated": "2026-11-06T12:26:00.197640+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "The Flood is Coming And The Pipes Were Already Full",
+          "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
+          "pubDate": "2026-11-06T11:30:00+00:00"
+        },
         {
           "title": "Chainalysis Breach Exposes All Users' Credentials, Forces Shutdown of Key Services",
           "link": "https://thehackernews.com/2026/11/chainalysis-breach-exposes-all-users.html",
@@ -28,11 +33,6 @@
           "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
           "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
           "pubDate": "2026-11-05T16:42:32+00:00"
-        },
-        {
-          "title": "ThreatsDay: Apache OFBiz RCE, DreamHost Breach, DeFi Site Hijacks + 17 More Stories",
-          "link": "https://thehackernews.com/2026/11/threatsday-apache-ofbiz-rce-dreamhost.html",
-          "pubDate": "2026-11-05T14:41:10+00:00"
         }
       ]
     },
