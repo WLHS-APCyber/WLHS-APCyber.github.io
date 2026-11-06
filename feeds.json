@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-06T12:26:00.197640+00:00",
+  "updated": "2026-11-06T14:21:40.252950+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
+          "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
+          "pubDate": "2026-11-06T12:06:43+00:00"
+        },
+        {
+          "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
+          "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
+          "pubDate": "2026-11-06T12:06:35+00:00"
+        },
         {
           "title": "The Flood is Coming And The Pipes Were Already Full",
           "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
@@ -23,16 +33,6 @@
           "title": "Experts Demonstrate Barracuda Email Security Gateway Chain Enabling Root Access Without Login",
           "link": "https://thehackernews.com/2026/11/experts-demonstrate-barracuda-email.html",
           "pubDate": "2026-11-06T05:39:10+00:00"
-        },
-        {
-          "title": "OpenSSH Issues Emergency Fix for Flaw Letting Long Passwords Bypass SSH Auth on Alpine Linux",
-          "link": "https://thehackernews.com/2026/11/openssh-issues-emergency-fix-for-flaw.html",
-          "pubDate": "2026-11-05T16:42:46+00:00"
-        },
-        {
-          "title": "Researchers Bypass ChatGPT Lockdown Mode to Exfiltrate Chats Without User Interaction",
-          "link": "https://thehackernews.com/2026/11/researchers-bypass-chatgpt-lockdown.html",
-          "pubDate": "2026-11-05T16:42:32+00:00"
         }
       ]
     },
