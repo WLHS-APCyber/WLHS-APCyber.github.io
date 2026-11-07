@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-06T18:23:45.031539+00:00",
+  "updated": "2026-11-07T08:21:58.069479+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
+          "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
+          "pubDate": "2026-11-07T06:44:17+00:00"
+        },
         {
           "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
           "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
@@ -28,11 +33,6 @@
           "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
           "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
           "pubDate": "2026-11-06T12:06:35+00:00"
-        },
-        {
-          "title": "The Flood is Coming And The Pipes Were Already Full",
-          "link": "https://thehackernews.com/2026/11/the-flood-is-coming-and-pipes-were.html",
-          "pubDate": "2026-11-06T11:30:00+00:00"
         }
       ]
     },
