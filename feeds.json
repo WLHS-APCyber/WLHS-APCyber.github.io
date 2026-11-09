@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-09T14:22:21.242476+00:00",
+  "updated": "2026-11-09T16:22:30.699178+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
+          "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
+          "pubDate": "2026-11-09T14:31:29+00:00"
+        },
         {
           "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
           "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
@@ -28,11 +33,6 @@
           "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
           "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
           "pubDate": "2026-11-09T09:01:50+00:00"
-        },
-        {
-          "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
-          "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
-          "pubDate": "2026-11-09T07:05:48+00:00"
         }
       ]
     },
