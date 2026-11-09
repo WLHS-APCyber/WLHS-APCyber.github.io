@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-09T10:21:12.406672+00:00",
+  "updated": "2026-11-09T12:27:24.898216+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
+          "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
+          "pubDate": "2026-11-09T11:27:53+00:00"
+        },
+        {
+          "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
+          "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
+          "pubDate": "2026-11-09T10:56:25+00:00"
+        },
+        {
+          "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
+          "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
+          "pubDate": "2026-11-09T10:01:21+00:00"
+        },
         {
           "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
           "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
@@ -18,21 +33,6 @@
           "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
           "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
           "pubDate": "2026-11-09T06:15:10+00:00"
-        },
-        {
-          "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
-          "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
-          "pubDate": "2026-11-09T06:05:24+00:00"
-        },
-        {
-          "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
-          "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
-          "pubDate": "2026-11-07T06:44:17+00:00"
-        },
-        {
-          "title": "Installing the Fix for an Exploited WordPress Flaw Can Expose Some Sites One Last Time",
-          "link": "https://thehackernews.com/2026/11/installing-fix-for-exploited-wordpress.html",
-          "pubDate": "2026-11-06T16:08:38+00:00"
         }
       ]
     },
