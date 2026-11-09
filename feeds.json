@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-09T06:38:04.008203+00:00",
+  "updated": "2026-11-09T08:27:28.330967+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
+          "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
+          "pubDate": "2026-11-09T07:05:48+00:00"
+        },
+        {
+          "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
+          "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
+          "pubDate": "2026-11-09T06:15:10+00:00"
+        },
         {
           "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
           "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
@@ -23,16 +33,6 @@
           "title": "Hackers Target OpenSSH SSHole Flaw Within Hours of Disclosure, Gain Root on Honeypot",
           "link": "https://thehackernews.com/2026/11/hackers-exploited-openssh-sshole-flaw.html",
           "pubDate": "2026-11-06T15:21:49+00:00"
-        },
-        {
-          "title": "OpenAI Launches GPT-6 Cyber After AI Helps Find 81 Firefox Flaws, 948 Linux Exploits",
-          "link": "https://thehackernews.com/2026/11/openai-launches-gpt-6-cyber-after-ai.html",
-          "pubDate": "2026-11-06T14:58:32+00:00"
-        },
-        {
-          "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
-          "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
-          "pubDate": "2026-11-06T12:06:43+00:00"
         }
       ]
     },
