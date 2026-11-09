@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-09T16:22:30.699178+00:00",
+  "updated": "2026-11-09T18:24:14.361339+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
+          "pubDate": "2026-11-09T17:51:21+00:00"
+        },
+        {
+          "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
+          "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
+          "pubDate": "2026-11-09T17:36:28+00:00"
+        },
         {
           "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
           "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
@@ -23,16 +33,6 @@
           "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
           "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
           "pubDate": "2026-11-09T10:56:25+00:00"
-        },
-        {
-          "title": "LNbits Urges All Operators to Shut Down Their Bitcoin Lightning Wallet Servers Amid Attacks",
-          "link": "https://thehackernews.com/2026/11/lnbits-urges-all-operators-to-shut-down.html",
-          "pubDate": "2026-11-09T10:01:21+00:00"
-        },
-        {
-          "title": "Taiwan-Based Hacker Used BOSSAI AI Agents to Steal Taipei Emergency Dispatch Records",
-          "link": "https://thehackernews.com/2026/11/taiwan-based-hacker-used-bossai-ai.html",
-          "pubDate": "2026-11-09T09:01:50+00:00"
         }
       ]
     },
