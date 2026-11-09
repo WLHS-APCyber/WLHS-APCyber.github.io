@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-07T08:21:58.069479+00:00",
+  "updated": "2026-11-09T06:38:04.008203+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "CISA Flags SonicWall SonicOS MFA Bypass Flaw Amid Reports of Possible Exploitation",
+          "link": "https://thehackernews.com/2026/11/cisa-flags-sonicwall-sonicos-mfa-bypass.html",
+          "pubDate": "2026-11-09T06:05:24+00:00"
+        },
         {
           "title": "Claude Code's “Don't Ask Again” File Exposes Passwords and Keys in 1,122 Public Copies on GitHub",
           "link": "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html",
@@ -28,11 +33,6 @@
           "title": "Microsoft Paint RCE Fix Now Available, but Windows Update Won't Deliver It",
           "link": "https://thehackernews.com/2026/11/microsoft-paint-rce-fix-now-available.html",
           "pubDate": "2026-11-06T12:06:43+00:00"
-        },
-        {
-          "title": "Malicious Browser Extensions Could Use Claude Dispatch to Run Code on Users' Computers",
-          "link": "https://thehackernews.com/2026/11/malicious-browser-extensions-could-use.html",
-          "pubDate": "2026-11-06T12:06:35+00:00"
         }
       ]
     },
