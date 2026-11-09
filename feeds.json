@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-09T12:27:24.898216+00:00",
+  "updated": "2026-11-09T14:22:21.242476+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
+          "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
+          "pubDate": "2026-11-09T13:28:25+00:00"
+        },
         {
           "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
           "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
@@ -28,11 +33,6 @@
           "title": "Former OpenAI Engineer Pleads Not Guilty to Planting Covert Device in Executive Meeting Room",
           "link": "https://thehackernews.com/2026/11/former-openai-engineer-pleads-not.html",
           "pubDate": "2026-11-09T07:05:48+00:00"
-        },
-        {
-          "title": "U.S. Agencies Warn Refrigeration Controller Attacks Could Cause Fires and Inventory Losses",
-          "link": "https://thehackernews.com/2026/11/us-agencies-warn-refrigeration.html",
-          "pubDate": "2026-11-09T06:15:10+00:00"
         }
       ]
     },
