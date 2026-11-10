@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-10T10:21:36.024798+00:00",
+  "updated": "2026-11-10T12:25:51.419459+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Beyond the Alert: The Case for Rich Network Data",
+          "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
+          "pubDate": "2026-11-10T11:38:13+00:00"
+        },
+        {
+          "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
+          "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
+          "pubDate": "2026-11-10T10:16:51+00:00"
+        },
+        {
+          "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
+          "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
+          "pubDate": "2026-11-10T10:07:29+00:00"
+        },
         {
           "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
           "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
@@ -18,21 +33,6 @@
           "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
           "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
           "pubDate": "2026-11-10T08:16:14+00:00"
-        },
-        {
-          "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
-          "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
-          "pubDate": "2026-11-10T06:52:54+00:00"
-        },
-        {
-          "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
-          "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
-          "pubDate": "2026-11-10T06:44:36+00:00"
-        },
-        {
-          "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
-          "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
-          "pubDate": "2026-11-10T06:31:42+00:00"
         }
       ]
     },
