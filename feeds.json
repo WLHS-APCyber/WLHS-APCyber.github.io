@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-09T18:24:14.361339+00:00",
+  "updated": "2026-11-10T08:24:52.396927+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+          "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
+          "pubDate": "2026-11-10T06:52:54+00:00"
+        },
+        {
+          "title": "N-able Takes N-central Cloud Offline After Researcher Discloses 33 Zero-Days with PoC Exploits",
+          "link": "https://thehackernews.com/2026/11/n-able-takes-hosted-n-central-offline.html",
+          "pubDate": "2026-11-10T06:44:36+00:00"
+        },
+        {
+          "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
+          "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
+          "pubDate": "2026-11-10T06:31:42+00:00"
+        },
         {
           "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
           "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
@@ -18,21 +33,6 @@
           "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
           "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
           "pubDate": "2026-11-09T14:31:29+00:00"
-        },
-        {
-          "title": "⚡ Weekly Recap: SSHole Exploited, APT Root RCE, Robot Takeovers, 15K Hacked Sites, and More",
-          "link": "https://thehackernews.com/2026/11/weekly-recap-sshole-exploited-apt-root.html",
-          "pubDate": "2026-11-09T13:28:25+00:00"
-        },
-        {
-          "title": "Default 'admin:admin' Server Password Helps Researchers Hack Two Automakers, Unlock and Start Cars",
-          "link": "https://thehackernews.com/2026/11/default-adminadmin-server-password.html",
-          "pubDate": "2026-11-09T11:27:53+00:00"
-        },
-        {
-          "title": "Web3Auth Flaw Exploited to Steal Keplr Crypto, Provider Empties Other Wallets for Safety",
-          "link": "https://thehackernews.com/2026/11/web3auth-flaw-exploited-to-steal-keplr.html",
-          "pubDate": "2026-11-09T10:56:25+00:00"
         }
       ]
     },
