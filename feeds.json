@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-10T14:21:17.755035+00:00",
+  "updated": "2026-11-10T16:21:24.843991+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
+          "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
+          "pubDate": "2026-11-10T16:00:55+00:00"
+        },
+        {
+          "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
+          "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
+          "pubDate": "2026-11-10T15:58:44+00:00"
+        },
+        {
+          "title": "Fireworks AI Breach Widens to Expose Customer Billing Data and Incomplete Model Weights",
+          "link": "https://thehackernews.com/2026/11/fireworks-ai-breach-widens-to-expose.html",
+          "pubDate": "2026-11-10T15:33:59+00:00"
+        },
         {
           "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
           "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
@@ -18,21 +33,6 @@
           "title": "Apple Patches iMessage Group Chat Privacy Flaws and Bluetooth Pairing Vulnerabilities",
           "link": "https://thehackernews.com/2026/11/apple-patches-imessage-group-chat.html",
           "pubDate": "2026-11-10T10:16:51+00:00"
-        },
-        {
-          "title": "Russian Turla Hackers Use New Cereal Malware to Steal Emails From Government Exchange Servers",
-          "link": "https://thehackernews.com/2026/11/russian-turla-hackers-use-new-cereal.html",
-          "pubDate": "2026-11-10T10:07:29+00:00"
-        },
-        {
-          "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
-          "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
-          "pubDate": "2026-11-10T10:02:40+00:00"
-        },
-        {
-          "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
-          "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
-          "pubDate": "2026-11-10T09:08:20+00:00"
         }
       ]
     },
