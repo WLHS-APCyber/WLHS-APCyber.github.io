@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-10T08:24:52.396927+00:00",
+  "updated": "2026-11-10T10:21:36.024798+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "SAP Patches Four CVSS 10.0 Flaws, Including Two Enabling Remote Code Execution",
+          "link": "https://thehackernews.com/2026/11/sap-patches-four-cvss-100-flaws.html",
+          "pubDate": "2026-11-10T10:02:40+00:00"
+        },
+        {
+          "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
+          "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
+          "pubDate": "2026-11-10T09:08:20+00:00"
+        },
+        {
+          "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
+          "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
+          "pubDate": "2026-11-10T08:16:14+00:00"
+        },
         {
           "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
           "link": "https://thehackernews.com/2026/11/google-issues-chrome-security-update.html",
@@ -18,21 +33,6 @@
           "title": "CISA Warns of Active Exploitation of OpenSSH, GPUStack, FreeSWITCH, and IBM Flaws",
           "link": "https://thehackernews.com/2026/11/cisa-warns-of-active-exploitation-of.html",
           "pubDate": "2026-11-10T06:31:42+00:00"
-        },
-        {
-          "title": "Hackers Exploit Qubole's Trusted AWS Access to Breach Customer Accounts and Steal Data",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-quboles-trusted-aws.html",
-          "pubDate": "2026-11-09T17:51:21+00:00"
-        },
-        {
-          "title": "Hackers Compromise Ethersphere's bee-js and Swarm Desktop to Deliver Wallet-Stealing Malware",
-          "link": "https://thehackernews.com/2026/11/hackers-compromise-etherspheres-bee-js.html",
-          "pubDate": "2026-11-09T17:36:28+00:00"
-        },
-        {
-          "title": "Bitter Hackers Deploy New PapRAT Backdoor in Cyberespionage Campaign Targeting South Asia",
-          "link": "https://thehackernews.com/2026/11/bitter-hackers-deploy-new-paprat.html",
-          "pubDate": "2026-11-09T14:31:29+00:00"
         }
       ]
     },
