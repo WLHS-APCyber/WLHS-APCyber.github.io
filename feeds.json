@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-10T12:25:51.419459+00:00",
+  "updated": "2026-11-10T14:21:17.755035+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Binance Warns of iOS Sandbox Escape That Could Expose Crypto Wallet Keys, No Fix Confirmed",
+          "link": "https://thehackernews.com/2026/11/binance-warns-of-ios-sandbox-escape.html",
+          "pubDate": "2026-11-10T12:15:31+00:00"
+        },
         {
           "title": "Beyond the Alert: The Case for Rich Network Data",
           "link": "https://thehackernews.com/2026/11/beyond-alert-case-for-rich-network-data.html",
@@ -28,11 +33,6 @@
           "title": "France Blames Iran for Sabotage Attack on Refrigeration Controllers at About 700 Retail Sites",
           "link": "https://thehackernews.com/2026/11/france-blames-iran-for-sabotage-attack.html",
           "pubDate": "2026-11-10T09:08:20+00:00"
-        },
-        {
-          "title": "Anthropic's Claude Fable 5.2 Beats GPT-6 Cyber in Multi-Stage Cyberattack Benchmark",
-          "link": "https://thehackernews.com/2026/11/anthropics-claude-fable-52-beats-gpt-6.html",
-          "pubDate": "2026-11-10T08:16:14+00:00"
         }
       ]
     },
