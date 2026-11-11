@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-11T02:22:12.063491+00:00",
+  "updated": "2026-11-11T06:29:31.699999+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
+          "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
+          "pubDate": "2026-11-11T06:04:02+00:00"
+        },
         {
           "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
           "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
@@ -28,11 +33,6 @@
           "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
           "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
           "pubDate": "2026-11-10T16:00:55+00:00"
-        },
-        {
-          "title": "Blind Eagle Uses Fake Court Notices to Deliver Remote Access Trojan Across Latin America",
-          "link": "https://thehackernews.com/2026/11/blind-eagle-uses-fake-court-notices-to.html",
-          "pubDate": "2026-11-10T15:58:44+00:00"
         }
       ]
     },
