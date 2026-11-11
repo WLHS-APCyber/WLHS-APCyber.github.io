@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-11T16:21:57.052181+00:00",
+  "updated": "2026-11-11T18:22:06.584902+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
+          "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
+          "pubDate": "2026-11-11T16:12:46+00:00"
+        },
         {
           "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
           "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
@@ -28,11 +33,6 @@
           "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
           "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
           "pubDate": "2026-11-11T12:00:53+00:00"
-        },
-        {
-          "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
-          "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
-          "pubDate": "2026-11-11T08:17:53+00:00"
         }
       ]
     },
