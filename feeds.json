@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-11T08:24:05.037975+00:00",
+  "updated": "2026-11-11T10:21:10.907780+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
+          "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
+          "pubDate": "2026-11-11T08:17:53+00:00"
+        },
+        {
+          "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
+          "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
+          "pubDate": "2026-11-11T07:49:04+00:00"
+        },
+        {
+          "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
+          "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
+          "pubDate": "2026-11-11T07:21:05+00:00"
+        },
         {
           "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
           "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
@@ -18,21 +33,6 @@
           "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
           "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
           "pubDate": "2026-11-10T19:19:39+00:00"
-        },
-        {
-          "title": "Hackers Exploit Critical Xen Orchestra Auth Bypass Flaw to Gain Admin Access",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-xen-orchestra.html",
-          "pubDate": "2026-11-10T18:12:21+00:00"
-        },
-        {
-          "title": "Three China-Nexus Espionage Campaigns Linked Through Sparrow Malware Ecosystem",
-          "link": "https://thehackernews.com/2026/11/three-china-nexus-espionage-campaigns.html",
-          "pubDate": "2026-11-10T17:43:23+00:00"
-        },
-        {
-          "title": "Attackers Exploit AhsayCBS Flaws to Deploy Sandbox-Evading Python Backdoor",
-          "link": "https://thehackernews.com/2026/11/attackers-exploit-ahsaycbs-flaws-to.html",
-          "pubDate": "2026-11-10T16:00:55+00:00"
         }
       ]
     },
