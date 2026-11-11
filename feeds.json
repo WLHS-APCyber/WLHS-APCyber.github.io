@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-11T06:29:31.699999+00:00",
+  "updated": "2026-11-11T08:24:05.037975+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
@@ -40,6 +40,11 @@
       "url": "https://haveibeenpwned.com/feed/breaches/",
       "items": [
         {
+          "title": "YouHack - 7,160,849 breached accounts",
+          "link": "https://haveibeenpwned.com/Breach/YouHack",
+          "pubDate": "2026-11-11T07:29:19+00:00"
+        },
+        {
           "title": "СберСпасибо (SberSpasibo) - 3,288,711 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/SberSpasibo",
           "pubDate": "2026-11-11T01:44:58+00:00"
@@ -63,11 +68,6 @@
           "title": "Gîtes de France - 117,574 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/GitesDeFrance",
           "pubDate": "2026-10-18T04:50:13+00:00"
-        },
-        {
-          "title": "Crunchbase - 559,908 breached accounts",
-          "link": "https://haveibeenpwned.com/Breach/Crunchbase",
-          "pubDate": "2026-10-14T06:01:26+00:00"
         }
       ]
     }
