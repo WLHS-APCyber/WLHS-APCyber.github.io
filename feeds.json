@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-11T10:21:10.907780+00:00",
+  "updated": "2026-11-11T12:26:32.596626+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
+          "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
+          "pubDate": "2026-11-11T12:01:59+00:00"
+        },
+        {
+          "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
+          "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
+          "pubDate": "2026-11-11T12:00:53+00:00"
+        },
         {
           "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
           "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
@@ -23,16 +33,6 @@
           "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
           "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
           "pubDate": "2026-11-11T06:04:02+00:00"
-        },
-        {
-          "title": "Git Patches Flaw That Lets Malicious Repositories Execute Code During Recursive Clones",
-          "link": "https://thehackernews.com/2026/11/git-patches-flaw-that-lets-malicious.html",
-          "pubDate": "2026-11-10T19:23:10+00:00"
-        },
-        {
-          "title": "SGLang RCE Exploit Breaches NEAR AI, Steals Data From 18 Agents and About 100 Users",
-          "link": "https://thehackernews.com/2026/11/sglang-rce-exploit-breaches-near-ai.html",
-          "pubDate": "2026-11-10T19:19:39+00:00"
         }
       ]
     },
