@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-11T12:26:32.596626+00:00",
+  "updated": "2026-11-11T14:21:35.779724+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
+          "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
+          "pubDate": "2026-11-11T12:19:40+00:00"
+        },
         {
           "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
           "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
@@ -28,11 +33,6 @@
           "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
           "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
           "pubDate": "2026-11-11T07:21:05+00:00"
-        },
-        {
-          "title": "Cisco BroadWorks and Openwave Flaws Actively Exploited Despite Available Patches",
-          "link": "https://thehackernews.com/2026/11/cisco-broadworks-and-openwave-flaws.html",
-          "pubDate": "2026-11-11T06:04:02+00:00"
         }
       ]
     },
