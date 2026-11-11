@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-11T14:21:35.779724+00:00",
+  "updated": "2026-11-11T16:21:57.052181+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
+          "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
+          "pubDate": "2026-11-11T15:34:27+00:00"
+        },
+        {
+          "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
+          "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
+          "pubDate": "2026-11-11T14:01:00+00:00"
+        },
         {
           "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
           "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
@@ -23,16 +33,6 @@
           "title": "Microsoft Patches 1,259 Flaws, Including Exploited Outlook Bug That May Expose NTLMv2 Hashes",
           "link": "https://thehackernews.com/2026/11/microsoft-patches-1259-flaws-including.html",
           "pubDate": "2026-11-11T08:17:53+00:00"
-        },
-        {
-          "title": "Railway Says Stolen Customer AI Keys Led to $740,000 in Estimated Unauthorized Usage Charges",
-          "link": "https://thehackernews.com/2026/11/railway-says-stolen-customer-ai-keys.html",
-          "pubDate": "2026-11-11T07:49:04+00:00"
-        },
-        {
-          "title": "Microsoft Researchers Show AI Agents Can Be Backdoored by Editing Fewer Than 10 Neurons",
-          "link": "https://thehackernews.com/2026/11/microsoft-researchers-show-ai-agents.html",
-          "pubDate": "2026-11-11T07:21:05+00:00"
         }
       ]
     },
