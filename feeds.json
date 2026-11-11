@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-10T20:21:02.891735+00:00",
+  "updated": "2026-11-11T02:22:12.063491+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
@@ -40,6 +40,11 @@
       "url": "https://haveibeenpwned.com/feed/breaches/",
       "items": [
         {
+          "title": "СберСпасибо (SberSpasibo) - 3,288,711 breached accounts",
+          "link": "https://haveibeenpwned.com/Breach/SberSpasibo",
+          "pubDate": "2026-11-11T01:44:58+00:00"
+        },
+        {
           "title": "Harvard - 850,537 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/Harvard",
           "pubDate": "2026-11-03T07:24:50+00:00"
@@ -63,11 +68,6 @@
           "title": "Crunchbase - 559,908 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/Crunchbase",
           "pubDate": "2026-10-14T06:01:26+00:00"
-        },
-        {
-          "title": "Sharecare - 318,185 breached accounts",
-          "link": "https://haveibeenpwned.com/Breach/Sharecare",
-          "pubDate": "2026-10-12T23:28:32+00:00"
         }
       ]
     }
