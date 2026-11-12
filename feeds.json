@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-12T08:24:31.047081+00:00",
+  "updated": "2026-11-12T10:21:12.265959+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
+          "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
+          "pubDate": "2026-11-12T09:25:00+00:00"
+        },
+        {
+          "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
+          "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
+          "pubDate": "2026-11-12T08:20:37+00:00"
+        },
         {
           "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
           "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
@@ -23,16 +33,6 @@
           "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
           "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
           "pubDate": "2026-11-11T16:12:46+00:00"
-        },
-        {
-          "title": "AntiFox AI Pentesting Platform Linked to Attacks That Accessed AWS Production Secrets",
-          "link": "https://thehackernews.com/2026/11/antifox-ai-pentesting-platform-linked.html",
-          "pubDate": "2026-11-11T15:34:27+00:00"
-        },
-        {
-          "title": "Hackers Target Qlik Sense Servers With Reverse Shells, Stage ActiveMQ and Veeam Exploits",
-          "link": "https://thehackernews.com/2026/11/hackers-target-qlik-sense-servers-with.html",
-          "pubDate": "2026-11-11T14:01:00+00:00"
         }
       ]
     },
