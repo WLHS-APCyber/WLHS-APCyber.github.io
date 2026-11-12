@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-11T18:22:06.584902+00:00",
+  "updated": "2026-11-12T06:29:58.706694+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
+          "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
+          "pubDate": "2026-11-12T05:12:26+00:00"
+        },
+        {
+          "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
+          "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
+          "pubDate": "2026-11-12T04:39:48+00:00"
+        },
         {
           "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
           "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
@@ -23,16 +33,6 @@
           "title": "Over 35,000 Grok-Built Apps Exposed Online, Some Leaking Confidential Data and Passwords",
           "link": "https://thehackernews.com/2026/11/over-35000-grok-built-apps-exposed.html",
           "pubDate": "2026-11-11T12:19:40+00:00"
-        },
-        {
-          "title": "We Built An Agent That Broke All of Our Security Rules. Here's What We Learned.",
-          "link": "https://thehackernews.com/2026/11/we-built-agent-that-broke-all-of-our.html",
-          "pubDate": "2026-11-11T12:01:59+00:00"
-        },
-        {
-          "title": "eMudhra Revokes 8 More CAs It Previously Declared Unaffected by Key Compromise",
-          "link": "https://thehackernews.com/2026/11/emudhra-revokes-8-more-cas-it.html",
-          "pubDate": "2026-11-11T12:00:53+00:00"
         }
       ]
     },
