@@ -1,38 +1,38 @@
 {
-  "updated": "2026-11-12T10:21:12.265959+00:00",
+  "updated": "2026-11-12T14:22:12.268651+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
         {
+          "title": "Google Cloud Warns Three AMD Turin CPU Flaws Could Leak Data Across Processes in VMs",
+          "link": "https://thehackernews.com/2026/11/google-cloud-warns-three-amd-turin-cpu.html",
+          "pubDate": "2026-11-12T12:09:14+00:00"
+        },
+        {
+          "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
+          "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
+          "pubDate": "2026-11-12T12:02:51+00:00"
+        },
+        {
+          "title": "New N-central Exploits Work Against Patched Servers, Enable Root RCE and Windows SYSTEM Access",
+          "link": "https://thehackernews.com/2026/11/new-n-central-exploits-work-against.html",
+          "pubDate": "2026-11-12T11:51:43+00:00"
+        },
+        {
+          "title": "Calendar Invites and Live Proxies: Inside a Google Session Hijacking Campaign",
+          "link": "https://thehackernews.com/2026/11/calendar-invites-and-live-proxies.html",
+          "pubDate": "2026-11-12T11:51:31+00:00"
+        },
+        {
+          "title": "PTC Patches Critical Windchill and FlexPLM Flaw That Could Enable Remote Code Execution",
+          "link": "https://thehackernews.com/2026/11/ptc-patches-critical-windchill-and.html",
+          "pubDate": "2026-11-12T11:33:15+00:00"
+        },
+        {
           "title": "Critical Pre-Auth MongoDB Flaw (CVE-2026-118383) Can Crash Lagging Servers on Failover",
           "link": "https://thehackernews.com/2026/11/critical-pre-auth-mongodb-flaw-cve-2026.html",
           "pubDate": "2026-11-12T09:25:00+00:00"
-        },
-        {
-          "title": "Node.js Fixes 16 Flaws, Including HTTP/2 Bugs That Crash Servers and Leak Other Connections' Data",
-          "link": "https://thehackernews.com/2026/11/nodejs-fixes-16-flaws-including-http2.html",
-          "pubDate": "2026-11-12T08:20:37+00:00"
-        },
-        {
-          "title": "Attacker Used 4,837 Hijacked GitHub Accounts to Run a CI Secret Stealer in 1,806+ Repositories",
-          "link": "https://thehackernews.com/2026/11/4837-hijacked-github-accounts-ran-ci.html",
-          "pubDate": "2026-11-12T06:42:47+00:00"
-        },
-        {
-          "title": "Critical Apache HTTP/2 Flaw Could Let Unauthenticated Attackers Execute Code Remotely",
-          "link": "https://thehackernews.com/2026/11/critical-apache-http2-flaw-could-let.html",
-          "pubDate": "2026-11-12T05:12:26+00:00"
-        },
-        {
-          "title": "ScreenConnect Attacks Target at Least 288 Endpoints Across 48 Organizations With Rogue Clients",
-          "link": "https://thehackernews.com/2026/11/screenconnect-attacks-target-at-least.html",
-          "pubDate": "2026-11-12T04:39:48+00:00"
-        },
-        {
-          "title": "Critical Zoom Workplace Flaw Could Allow Unauthenticated Remote Privilege Escalation",
-          "link": "https://thehackernews.com/2026/11/critical-zoom-workplace-flaw-could.html",
-          "pubDate": "2026-11-11T16:12:46+00:00"
         }
       ]
     },
