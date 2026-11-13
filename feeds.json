@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-13T16:21:58.533299+00:00",
+  "updated": "2026-11-13T18:21:26.792769+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
+          "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
+          "pubDate": "2026-11-13T16:53:08+00:00"
+        },
         {
           "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
           "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
@@ -28,11 +33,6 @@
           "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
           "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
           "pubDate": "2026-11-13T11:10:40+00:00"
-        },
-        {
-          "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
-          "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
-          "pubDate": "2026-11-13T10:55:03+00:00"
         }
       ]
     },
