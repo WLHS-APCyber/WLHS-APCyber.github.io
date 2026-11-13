@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-12T18:23:12.077702+00:00",
+  "updated": "2026-11-13T06:29:54.671885+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
+          "pubDate": "2026-11-13T05:43:28+00:00"
+        },
         {
           "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
           "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
@@ -28,17 +33,17 @@
           "title": "Citrix Patches 12 NetScaler and Secure Access Client Flaws, Including Authentication Bypass",
           "link": "https://thehackernews.com/2026/11/citrix-patches-12-netscaler-and-secure.html",
           "pubDate": "2026-11-12T15:38:49+00:00"
-        },
-        {
-          "title": "186 Fake AI Domains Redirect Users to ClickFix Lures, Browser Malware, and Search Hijackers",
-          "link": "https://thehackernews.com/2026/11/186-fake-ai-domains-redirect-users-to.html",
-          "pubDate": "2026-11-12T15:15:40+00:00"
         }
       ]
     },
     "hibp": {
       "url": "https://haveibeenpwned.com/feed/breaches/",
       "items": [
+        {
+          "title": "CastleRAT - 179,745 breached accounts",
+          "link": "https://haveibeenpwned.com/Breach/CastleRAT",
+          "pubDate": "2026-11-13T05:41:32+00:00"
+        },
         {
           "title": "YouHack - 7,160,849 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/YouHack",
@@ -63,11 +68,6 @@
           "title": "Assurance Retraite - 70,372 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/AssuranceRetraite",
           "pubDate": "2026-10-20T02:29:36+00:00"
-        },
-        {
-          "title": "Gîtes de France - 117,574 breached accounts",
-          "link": "https://haveibeenpwned.com/Breach/GitesDeFrance",
-          "pubDate": "2026-10-18T04:50:13+00:00"
         }
       ]
     }
