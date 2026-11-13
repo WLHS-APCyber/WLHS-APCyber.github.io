@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-13T12:27:08.800533+00:00",
+  "updated": "2026-11-13T16:21:58.533299+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
+          "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
+          "pubDate": "2026-11-13T15:27:05+00:00"
+        },
+        {
+          "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
+          "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
+          "pubDate": "2026-11-13T14:28:58+00:00"
+        },
+        {
+          "title": "Trezor Confirms Hidden Implants in CryptoBilis-Sold Wallets That Can Steal Recovery Phrases",
+          "link": "https://thehackernews.com/2026/11/trezor-confirms-hidden-hardware.html",
+          "pubDate": "2026-11-13T13:54:20+00:00"
+        },
         {
           "title": "When an AI Agent Goes Wrong, Can You Stop It?",
           "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
@@ -18,21 +33,6 @@
           "title": "Operation Endgame Takes Down Gootloader, CastleRAT and StealC Servers, Seizes 6.4M Stolen Logins",
           "link": "https://thehackernews.com/2026/11/operation-endgame-takes-down-gootloader.html",
           "pubDate": "2026-11-13T10:55:03+00:00"
-        },
-        {
-          "title": "Hackers Exploit PHP2Shell Flaws in Check Point Gateways to Deploy TSGA Backdoor and Wipe ESXi Files",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-php2shell-flaws-in.html",
-          "pubDate": "2026-11-13T08:05:49+00:00"
-        },
-        {
-          "title": "Hackers Exploit N-central Flaws to Infect 21 Servers, Including 19 Running Hotfix 2",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-n-central-flaws-to.html",
-          "pubDate": "2026-11-13T05:43:28+00:00"
-        },
-        {
-          "title": "Webinar: See How Identity Blind Spots Put Your SOC at Risk and How to Close Them",
-          "link": "https://thehackernews.com/2026/11/your-soc-sees-alert-but-does-it-know.html",
-          "pubDate": "2026-11-12T18:07:15+00:00"
         }
       ]
     },
