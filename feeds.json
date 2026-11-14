@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-13T18:21:26.792769+00:00",
+  "updated": "2026-11-14T14:20:45.626687+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
+          "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
+          "pubDate": "2026-11-14T12:38:35+00:00"
+        },
         {
           "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
           "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
@@ -28,11 +33,6 @@
           "title": "When an AI Agent Goes Wrong, Can You Stop It?",
           "link": "https://thehackernews.com/2026/11/when-ai-agent-goes-wrong-can-you-stop-it.html",
           "pubDate": "2026-11-13T11:52:31+00:00"
-        },
-        {
-          "title": "SilentAir Hijacks Asian Telecom Networks to Intercept SMS 2FA Codes and Spy on Taiwanese Users",
-          "link": "https://thehackernews.com/2026/11/silentair-hijacks-asian-telecom.html",
-          "pubDate": "2026-11-13T11:10:40+00:00"
         }
       ]
     },
