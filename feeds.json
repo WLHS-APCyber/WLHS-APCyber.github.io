@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-15T12:23:50.524836+00:00",
+  "updated": "2026-11-16T08:39:08.899612+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
+          "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
+          "pubDate": "2026-11-16T07:34:21+00:00"
+        },
+        {
+          "title": "BO Team Exploits Log4Shell in VMware vCenter, Compromises Russian Firm's Code-Signing Server",
+          "link": "https://thehackernews.com/2026/11/bo-team-exploits-log4shell-in-vmware.html",
+          "pubDate": "2026-11-16T06:53:34+00:00"
+        },
         {
           "title": "Italy Fines Meta €805 Million Over Facebook's Android Gallery Access Without Explicit Consent",
           "link": "https://thehackernews.com/2026/11/italy-fines-meta-805-million-over.html",
@@ -23,16 +33,6 @@
           "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
           "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
           "pubDate": "2026-11-13T16:53:08+00:00"
-        },
-        {
-          "title": "New Mior and Skyfall Attacks Let Rogue Cloud Hosts Steal Secrets From AMD SEV-SNP VMs",
-          "link": "https://thehackernews.com/2026/11/new-mior-and-skyfall-attacks-let-rogue.html",
-          "pubDate": "2026-11-13T15:27:05+00:00"
-        },
-        {
-          "title": "FBI Says North Korean Hackers Stole Over $400 Million in Crypto Using Deepfake Video Calls",
-          "link": "https://thehackernews.com/2026/11/fbi-says-north-korean-hackers-stole.html",
-          "pubDate": "2026-11-13T14:28:58+00:00"
         }
       ]
     },
