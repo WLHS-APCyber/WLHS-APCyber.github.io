@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-16T08:39:08.899612+00:00",
+  "updated": "2026-11-16T12:35:50.774530+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
+          "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
+          "pubDate": "2026-11-16T09:32:57+00:00"
+        },
         {
           "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
           "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
@@ -28,11 +33,6 @@
           "title": "Attackers Exploit UnrealIRCd Flaw That Enables Server-Level Command Injection",
           "link": "https://thehackernews.com/2026/11/attackers-exploit-unrealircd-flaw-that.html",
           "pubDate": "2026-11-14T12:38:35+00:00"
-        },
-        {
-          "title": "PostgreSQL Patches 52 Flaws, Including 22-Year-Old Bug Enabling Authenticated RCE",
-          "link": "https://thehackernews.com/2026/11/postgresql-patches-52-flaws-including.html",
-          "pubDate": "2026-11-13T16:53:08+00:00"
         }
       ]
     },
