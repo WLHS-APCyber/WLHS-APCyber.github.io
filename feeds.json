@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-17T06:30:50.127054+00:00",
+  "updated": "2026-11-17T08:24:37.132371+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
+          "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
+          "pubDate": "2026-11-17T07:12:13+00:00"
+        },
+        {
+          "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
+          "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
+          "pubDate": "2026-11-17T06:29:27+00:00"
+        },
         {
           "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
           "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
@@ -23,16 +33,6 @@
           "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
           "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
           "pubDate": "2026-11-16T12:34:21+00:00"
-        },
-        {
-          "title": "Retadup Worm Resurfaces 7 Years After Takedown to Spread CoffeeLoader Malware",
-          "link": "https://thehackernews.com/2026/11/retadup-worm-resurfaces-7-years-after.html",
-          "pubDate": "2026-11-16T12:33:18+00:00"
-        },
-        {
-          "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
-          "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
-          "pubDate": "2026-11-16T09:32:57+00:00"
         }
       ]
     },
