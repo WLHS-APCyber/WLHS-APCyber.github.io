@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-17T12:27:01.164967+00:00",
+  "updated": "2026-11-17T14:21:47.566652+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+          "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+          "pubDate": "2026-11-17T12:25:06+00:00"
+        },
+        {
+          "title": "Researchers Detail iPhone Flaw That Let Apps Record Audio Despite Denied Microphone Permission",
+          "link": "https://thehackernews.com/2026/11/researchers-detail-iphone-flaw-that-let.html",
+          "pubDate": "2026-11-17T12:14:36+00:00"
+        },
         {
           "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
           "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
@@ -23,16 +33,6 @@
           "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
           "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
           "pubDate": "2026-11-17T06:29:27+00:00"
-        },
-        {
-          "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
-          "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
-          "pubDate": "2026-11-17T05:00:34+00:00"
-        },
-        {
-          "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
-          "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
-          "pubDate": "2026-11-16T14:00:00+00:00"
         }
       ]
     },
