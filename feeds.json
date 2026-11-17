@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-16T18:24:22.109058+00:00",
+  "updated": "2026-11-17T06:30:50.127054+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "N-able Patches 17 N-central Flaws as Attackers Exploit Earlier Bugs to Deploy Crypto Miners",
+          "link": "https://thehackernews.com/2026/11/n-able-patches-17-n-central-flaws-as.html",
+          "pubDate": "2026-11-17T05:00:34+00:00"
+        },
         {
           "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
           "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
@@ -28,11 +33,6 @@
           "title": "SANSAR Linux Cryptomining Malware Uses Modified NVIDIA Library to Hide GPU Activity",
           "link": "https://thehackernews.com/2026/11/sansar-linux-cryptomining-malware-uses.html",
           "pubDate": "2026-11-16T09:32:57+00:00"
-        },
-        {
-          "title": "Amazon Uncovers AI Agent Campaign Targeting LiteLLM, Dify, and Other Apps for API Keys",
-          "link": "https://thehackernews.com/2026/11/amazon-uncovers-ai-agent-campaign.html",
-          "pubDate": "2026-11-16T07:34:21+00:00"
         }
       ]
     },
