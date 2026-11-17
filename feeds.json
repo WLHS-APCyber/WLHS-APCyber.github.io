@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-17T14:21:47.566652+00:00",
+  "updated": "2026-11-17T20:21:41.199875+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Researchers Claim Two RCE Exploits That Bypass Telegram’s New Android Defenses",
+          "link": "https://thehackernews.com/2026/11/researchers-claim-two-rce-exploits-that.html",
+          "pubDate": "2026-11-17T19:34:20+00:00"
+        },
+        {
+          "title": "Oracle to Patch 11 Java Flaws Today as Critical OpenJDK RCE (CVE-2026-114938) Report Emerges",
+          "link": "https://thehackernews.com/2026/11/oracle-to-patch-11-java-flaws-today-as.html",
+          "pubDate": "2026-11-17T15:17:36+00:00"
+        },
+        {
+          "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
+          "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
+          "pubDate": "2026-11-17T15:17:28+00:00"
+        },
         {
           "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
           "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
@@ -18,21 +33,6 @@
           "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
           "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
           "pubDate": "2026-11-17T11:20:18+00:00"
-        },
-        {
-          "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
-          "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
-          "pubDate": "2026-11-17T11:07:31+00:00"
-        },
-        {
-          "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
-          "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
-          "pubDate": "2026-11-17T07:12:13+00:00"
-        },
-        {
-          "title": "ConnectWise Warns ScreenConnect Attacks Continue as SCKit Targets Unpatched Systems",
-          "link": "https://thehackernews.com/2026/11/connectwise-warns-screenconnect-attacks.html",
-          "pubDate": "2026-11-17T06:29:27+00:00"
         }
       ]
     },
