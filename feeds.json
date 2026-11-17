@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-17T08:24:37.132371+00:00",
+  "updated": "2026-11-17T12:27:01.164967+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "New GitDoor and GraphDoor Backdoors Turn GitHub and SharePoint Into Covert C2 Channels",
+          "link": "https://thehackernews.com/2026/11/new-gitdoor-and-graphdoor-backdoors.html",
+          "pubDate": "2026-11-17T11:20:18+00:00"
+        },
+        {
+          "title": "Apple Tightens macOS App Permissions to Limit Data Access Amid AI Agent Security Risks",
+          "link": "https://thehackernews.com/2026/11/apple-tightens-macos-app-permissions-to.html",
+          "pubDate": "2026-11-17T11:07:31+00:00"
+        },
         {
           "title": "Hijacked Optimizely Scripts Served Card Skimmer and iOS Exploit Kits to CNN, BBC and Zoom Visitors",
           "link": "https://thehackernews.com/2026/11/hijacked-optimizely-scripts-served-card.html",
@@ -23,16 +33,6 @@
           "title": "Google Finds Hackers Using AI Agents to Build and Run Exploits From Software Patches",
           "link": "https://thehackernews.com/2026/11/google-finds-hackers-using-ai-agents-to.html",
           "pubDate": "2026-11-16T14:00:00+00:00"
-        },
-        {
-          "title": "⚡ Weekly Recap: N-able 0-Days, Windows 0-Days, Chrome 0-Days, Fridge 0-Days, and More Bad Days",
-          "link": "https://thehackernews.com/2026/11/weekly-recap-n-able-0-days-windows-0.html",
-          "pubDate": "2026-11-16T13:27:20+00:00"
-        },
-        {
-          "title": "Six Unpatched Danfoss Refrigeration Controller Flaws Could Allow Remote Takeover Without Login",
-          "link": "https://thehackernews.com/2026/11/six-unpatched-danfoss-refrigeration.html",
-          "pubDate": "2026-11-16T12:34:21+00:00"
         }
       ]
     },
