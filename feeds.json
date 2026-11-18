@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-18T16:20:37.806125+00:00",
+  "updated": "2026-11-18T20:21:12.358085+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
+          "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
+          "pubDate": "2026-11-18T18:31:17+00:00"
+        },
+        {
+          "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
+          "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
+          "pubDate": "2026-11-18T18:15:39+00:00"
+        },
+        {
+          "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
+          "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
+          "pubDate": "2026-11-18T17:10:45+00:00"
+        },
         {
           "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
           "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
@@ -18,21 +33,6 @@
           "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
           "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
           "pubDate": "2026-11-18T12:15:00+00:00"
-        },
-        {
-          "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
-          "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
-          "pubDate": "2026-11-18T11:55:49+00:00"
-        },
-        {
-          "title": "Quality Isn’t The Main Worry About AI Pentesting — Data Privacy and Production Safety Are",
-          "link": "https://thehackernews.com/2026/11/quality-isnt-main-worry-about-ai.html",
-          "pubDate": "2026-11-18T11:03:57+00:00"
-        },
-        {
-          "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
-          "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
-          "pubDate": "2026-11-18T08:24:31+00:00"
         }
       ]
     },
