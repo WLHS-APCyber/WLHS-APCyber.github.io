@@ -1,16 +1,21 @@
 {
-  "updated": "2026-11-18T06:30:33.189242+00:00",
+  "updated": "2026-11-18T08:24:41.781345+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
+          "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
+          "pubDate": "2026-11-18T06:45:26+00:00"
+        },
         {
           "title": "Russian COLD RELIC Hackers Use Stolen Google Workspace Data to Breach Second U.S. Organization",
           "link": "https://thehackernews.com/2026/11/russian-cold-relic-hackers-use-stolen.html",
           "pubDate": "2026-11-18T05:58:04+00:00"
         },
         {
-          "title": "Java4Shell (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak on Java 17+ AVX-512 VBMI Servers",
+          "title": "Java4Shell Flaw (CVE-2026-114938) Enables Pre-Auth RCE in Jira, Jenkins, Keycloak and More",
           "link": "https://thehackernews.com/2026/11/java4shell-cve-2026-114938-enables-pre.html",
           "pubDate": "2026-11-18T04:27:41+00:00"
         },
@@ -28,11 +33,6 @@
           "title": "Trigram Campaign Impersonates About 50 AI and Blockchain Brands to Target Devs with Infostealers",
           "link": "https://thehackernews.com/2026/11/trigram-campaign-impersonates-about-50.html",
           "pubDate": "2026-11-17T15:17:28+00:00"
-        },
-        {
-          "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
-          "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
-          "pubDate": "2026-11-17T12:25:06+00:00"
         }
       ]
     },
