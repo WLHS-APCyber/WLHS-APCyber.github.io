@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-18T14:22:02.177795+00:00",
+  "updated": "2026-11-18T16:20:37.806125+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
+          "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
+          "pubDate": "2026-11-18T14:11:28+00:00"
+        },
         {
           "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
           "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
@@ -28,11 +33,6 @@
           "title": "Hackers Exploiting Critical Puppet RCE Flaw Affecting Enterprise Management Servers",
           "link": "https://thehackernews.com/2026/11/hackers-exploiting-critical-puppet-rce.html",
           "pubDate": "2026-11-18T08:24:31+00:00"
-        },
-        {
-          "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
-          "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
-          "pubDate": "2026-11-18T08:24:23+00:00"
         }
       ]
     },
