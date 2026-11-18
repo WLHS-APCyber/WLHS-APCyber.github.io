@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-18T12:26:47.551658+00:00",
+  "updated": "2026-11-18T14:22:02.177795+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
+          "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
+          "pubDate": "2026-11-18T12:28:30+00:00"
+        },
         {
           "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
           "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
@@ -28,11 +33,6 @@
           "title": "CISA Urges Immediate Patching of Java4Shell Flaw That Could Allow Remote Code Execution",
           "link": "https://thehackernews.com/2026/11/cisa-urges-immediate-patching-of.html",
           "pubDate": "2026-11-18T08:24:23+00:00"
-        },
-        {
-          "title": "Attackers Compromise Microsoft's Agent Framework PyPI Package to Steal Cloud Credentials",
-          "link": "https://thehackernews.com/2026/11/attackers-compromise-microsofts-agent.html",
-          "pubDate": "2026-11-18T06:45:26+00:00"
         }
       ]
     },
