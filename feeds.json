@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-19T16:22:32.938243+00:00",
+  "updated": "2026-11-19T18:24:41.751005+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
+          "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
+          "pubDate": "2026-11-19T16:59:56+00:00"
+        },
         {
           "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
           "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
@@ -28,11 +33,6 @@
           "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
           "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
           "pubDate": "2026-11-19T09:31:26+00:00"
-        },
-        {
-          "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
-          "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
-          "pubDate": "2026-11-19T08:42:11+00:00"
         }
       ]
     },
