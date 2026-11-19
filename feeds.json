@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-19T10:21:21.499844+00:00",
+  "updated": "2026-11-19T14:22:20.366476+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Everything Is a Web Application, Including Your Firewall",
+          "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
+          "pubDate": "2026-11-19T11:52:23+00:00"
+        },
         {
           "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
           "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
@@ -28,11 +33,6 @@
           "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
           "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
           "pubDate": "2026-11-19T04:33:46+00:00"
-        },
-        {
-          "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
-          "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
-          "pubDate": "2026-11-18T18:31:17+00:00"
         }
       ]
     },
