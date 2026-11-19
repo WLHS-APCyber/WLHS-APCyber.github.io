@@ -1,9 +1,29 @@
 {
-  "updated": "2026-11-19T06:31:13.351724+00:00",
+  "updated": "2026-11-19T10:21:21.499844+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Breach N-able Cloud Server, Disrupting Email Security Management Across 3 Regions",
+          "link": "https://thehackernews.com/2026/11/n-able-confirms-hackers-accessed-cloud.html",
+          "pubDate": "2026-11-19T09:31:26+00:00"
+        },
+        {
+          "title": "Ruby Releases Fixes for 7 Regex and String Flaws, Warns 5 Have Proof-of-Concept RCE",
+          "link": "https://thehackernews.com/2026/11/ruby-releases-fixes-for-7-regex-and.html",
+          "pubDate": "2026-11-19T08:42:11+00:00"
+        },
+        {
+          "title": "Researcher Demonstrates Database RCE Exploits Affecting PostgreSQL, MySQL and Oracle",
+          "link": "https://thehackernews.com/2026/11/researcher-demonstrates-database-rce.html",
+          "pubDate": "2026-11-19T08:14:00+00:00"
+        },
+        {
+          "title": "CISA Warns of 4 Exploited Flaws Linked to Ransomware, Cryptomining, and LLMjacking Attacks",
+          "link": "https://thehackernews.com/2026/11/cisa-warns-of-4-exploited-flaws-linked.html",
+          "pubDate": "2026-11-19T08:00:00+00:00"
+        },
         {
           "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
           "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
@@ -13,26 +33,6 @@
           "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
           "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
           "pubDate": "2026-11-18T18:31:17+00:00"
-        },
-        {
-          "title": "F5 Warns 6 Critical BIG-IP Flaws Can Crash Traffic in Specific Setups, May Allow RCE",
-          "link": "https://thehackernews.com/2026/11/f5-warns-6-critical-big-ip-flaws-can.html",
-          "pubDate": "2026-11-18T18:15:39+00:00"
-        },
-        {
-          "title": "Critical Apache Roller RCE Flaw Under Active Exploitation, No Authentication Required",
-          "link": "https://thehackernews.com/2026/11/critical-apache-roller-rce-flaw-under.html",
-          "pubDate": "2026-11-18T17:10:45+00:00"
-        },
-        {
-          "title": "New EggStreme Malware Variant Goes Silent to Evade Security Tools in Government Attacks",
-          "link": "https://thehackernews.com/2026/11/eggstreme-hackers-rebuild-malware-with.html",
-          "pubDate": "2026-11-18T14:11:28+00:00"
-        },
-        {
-          "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
-          "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
-          "pubDate": "2026-11-18T12:28:30+00:00"
         }
       ]
     },
