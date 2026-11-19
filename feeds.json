@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-18T20:21:12.358085+00:00",
+  "updated": "2026-11-19T06:31:13.351724+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "PHP Warns of Critical Security Flaws Affecting All Supported Versions, Fixes Coming November 19",
+          "link": "https://thehackernews.com/2026/11/php-warns-of-critical-security-flaws.html",
+          "pubDate": "2026-11-19T04:33:46+00:00"
+        },
         {
           "title": "10-Year-Old NGINX HTTP/2 Flaw Lets Unauthenticated Attackers Execute Code on Servers",
           "link": "https://thehackernews.com/2026/11/10-year-old-nginx-http2-flaw-lets.html",
@@ -28,11 +33,6 @@
           "title": "New Attack Bypasses TPM Lockout to Crack Windows Hello and BitLocker PINs in Days, Not Years",
           "link": "https://thehackernews.com/2026/11/flash-chip-attack-bypasses-tpm-lockout.html",
           "pubDate": "2026-11-18T12:28:30+00:00"
-        },
-        {
-          "title": "AI Pentesting Checklist for Web Apps: 15 Questions to Ask Before Choosing a Vendor",
-          "link": "https://thehackernews.com/2026/11/ai-pentesting-checklist-for-web-apps-15.html",
-          "pubDate": "2026-11-18T12:15:00+00:00"
         }
       ]
     },
