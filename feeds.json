@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-20T18:24:10.826106+00:00",
+  "updated": "2026-11-20T20:21:13.001431+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "WhatsApp Patches 3 Security Flaws, Including Android Bug Suspected of Use in Scams",
+          "link": "https://thehackernews.com/2026/11/whatsapp-patches-3-security-flaws.html",
+          "pubDate": "2026-11-20T17:57:20+00:00"
+        },
         {
           "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
           "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
@@ -28,17 +33,17 @@
           "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
           "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
           "pubDate": "2026-11-20T10:32:50+00:00"
-        },
-        {
-          "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
-          "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
-          "pubDate": "2026-11-20T09:38:15+00:00"
         }
       ]
     },
     "hibp": {
       "url": "https://haveibeenpwned.com/feed/breaches/",
       "items": [
+        {
+          "title": "Too Lost - 724,323 breached accounts",
+          "link": "https://haveibeenpwned.com/Breach/TooLost",
+          "pubDate": "2026-11-20T19:17:16+00:00"
+        },
         {
           "title": "Careers360 - 3,609,421 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/Careers360",
@@ -63,11 +68,6 @@
           "title": "Harvard - 850,537 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/Harvard",
           "pubDate": "2026-11-03T07:24:50+00:00"
-        },
-        {
-          "title": "AfD - 345,439 breached accounts",
-          "link": "https://haveibeenpwned.com/Breach/AfD",
-          "pubDate": "2026-10-27T07:01:06+00:00"
         }
       ]
     }
