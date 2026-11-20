@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-20T10:21:17.208785+00:00",
+  "updated": "2026-11-20T12:26:57.705331+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
+          "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
+          "pubDate": "2026-11-20T10:38:22+00:00"
+        },
+        {
+          "title": "Hackers Exploit Critical Cisco Expressway Flaw, Breach Four Devices and Reach Internal Network",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-cisco.html",
+          "pubDate": "2026-11-20T10:32:50+00:00"
+        },
         {
           "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
           "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
@@ -23,16 +33,6 @@
           "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
           "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
           "pubDate": "2026-11-19T18:47:58+00:00"
-        },
-        {
-          "title": "phpAfterShell Explained: How Hackers Could Turn a PHP Session Flaw Into Code Execution",
-          "link": "https://thehackernews.com/2026/11/phpaftershell-explained-how-hackers.html",
-          "pubDate": "2026-11-19T16:59:56+00:00"
-        },
-        {
-          "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
-          "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
-          "pubDate": "2026-11-19T15:18:07+00:00"
         }
       ]
     },
