@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-20T06:30:25.935777+00:00",
+  "updated": "2026-11-20T08:24:46.606118+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
+          "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
+          "pubDate": "2026-11-20T07:11:39+00:00"
+        },
+        {
+          "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
+          "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
+          "pubDate": "2026-11-20T06:33:31+00:00"
+        },
         {
           "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
           "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
@@ -23,16 +33,6 @@
           "title": "PHP Fixes 7 Critical Flaws, Including Bugs That Could Allow Remote Code Execution",
           "link": "https://thehackernews.com/2026/11/php-fixes-7-critical-flaws-including.html",
           "pubDate": "2026-11-19T15:18:07+00:00"
-        },
-        {
-          "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
-          "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
-          "pubDate": "2026-11-19T15:11:06+00:00"
-        },
-        {
-          "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
-          "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
-          "pubDate": "2026-11-19T14:33:06+00:00"
         }
       ]
     },
