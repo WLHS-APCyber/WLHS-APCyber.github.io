@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-20T12:26:57.705331+00:00",
+  "updated": "2026-11-20T14:21:14.751138+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
+          "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
+          "pubDate": "2026-11-20T12:20:00+00:00"
+        },
+        {
+          "title": "The Path to AI Autonomy in the SOC",
+          "link": "https://thehackernews.com/2026/11/the-path-to-ai-autonomy-in-soc.html",
+          "pubDate": "2026-11-20T12:00:00+00:00"
+        },
         {
           "title": "SonicWall Warns Gen 6 Firewalls Won't Get Security Patches, Even for Critical Flaws",
           "link": "https://thehackernews.com/2026/11/sonicwall-warns-gen-6-firewalls-wont.html",
@@ -23,16 +33,6 @@
           "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
           "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
           "pubDate": "2026-11-20T07:11:39+00:00"
-        },
-        {
-          "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
-          "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
-          "pubDate": "2026-11-20T05:30:01+00:00"
-        },
-        {
-          "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
-          "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
-          "pubDate": "2026-11-19T18:47:58+00:00"
         }
       ]
     },
