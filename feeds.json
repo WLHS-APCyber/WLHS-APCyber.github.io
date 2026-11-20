@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-20T14:21:14.751138+00:00",
+  "updated": "2026-11-20T18:24:10.826106+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Bazuka Android Malware Uses Fake Screen Overlays to Hide Credential Theft and Device Control",
+          "link": "https://thehackernews.com/2026/11/bazuka-android-malware-uses-fake-screen.html",
+          "pubDate": "2026-11-20T16:58:16+00:00"
+        },
         {
           "title": "Linux KVM Flaw CVE-2026-99312 Lets Guest VMs Access Host Memory on AMD Hosts",
           "link": "https://thehackernews.com/2026/11/new-linux-kvm-flaw-cve-2026-99312-lets.html",
@@ -28,11 +33,6 @@
           "title": "China-Linked Hackers Exploit Critical VMware vCenter Zero-Day to Gain Admin Access and Steal Data",
           "link": "https://thehackernews.com/2026/11/china-linked-hackers-exploit-critical.html",
           "pubDate": "2026-11-20T09:38:15+00:00"
-        },
-        {
-          "title": "ROMULUS ClickFix Attacks Deliver RAT That Can Spy on Users and Control PCs",
-          "link": "https://thehackernews.com/2026/11/romulus-clickfix-attacks-deliver-rat.html",
-          "pubDate": "2026-11-20T07:11:39+00:00"
         }
       ]
     },
