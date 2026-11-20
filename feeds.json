@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T20:21:50.533787+00:00",
+  "updated": "2026-11-20T04:23:48.167888+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
@@ -20,7 +20,7 @@
           "pubDate": "2026-11-19T15:18:07+00:00"
         },
         {
-          "title": "Critical VMware vCenter Flaw (CVSS 9.8) Lets Network Attackers Bypass Authentication",
+          "title": "Critical VMware vCenter Zero-Day Flaw Lets Network Attackers Bypass Authentication",
           "link": "https://thehackernews.com/2026/11/critical-vmware-vcenter-flaw-cvss-98.html",
           "pubDate": "2026-11-19T15:11:06+00:00"
         },
@@ -39,6 +39,11 @@
     "hibp": {
       "url": "https://haveibeenpwned.com/feed/breaches/",
       "items": [
+        {
+          "title": "Careers360 - 3,609,421 breached accounts",
+          "link": "https://haveibeenpwned.com/Breach/Careers360",
+          "pubDate": "2026-11-20T03:44:54+00:00"
+        },
         {
           "title": "CastleRAT - 179,745 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/CastleRAT",
@@ -63,11 +68,6 @@
           "title": "AfD - 345,439 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/AfD",
           "pubDate": "2026-10-27T07:01:06+00:00"
-        },
-        {
-          "title": "Assurance Retraite - 70,372 breached accounts",
-          "link": "https://haveibeenpwned.com/Breach/AssuranceRetraite",
-          "pubDate": "2026-10-20T02:29:36+00:00"
         }
       ]
     }
