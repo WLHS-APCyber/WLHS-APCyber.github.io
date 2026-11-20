@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-20T04:23:48.167888+00:00",
+  "updated": "2026-11-20T06:30:25.935777+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "New Unpatched Windows 0-Day FastUnlock Lets Someone Holding a Locked PC Run Programs on It",
+          "link": "https://thehackernews.com/2026/11/new-unpatched-windows-0-day-fastunlock.html",
+          "pubDate": "2026-11-20T05:30:01+00:00"
+        },
         {
           "title": "ThreatsDay: GPT-6.2 Jailbreak Flaws, BubbleLoader PNG Malware, $500M Ransom Demands + 17 More Stories",
           "link": "https://thehackernews.com/2026/11/threatsday-gpt-62-jailbreak-flaws.html",
@@ -28,11 +33,6 @@
           "title": "Drupal Patches Critical Installer Flaw That Could Give Unauthenticated Attackers Control of Sites",
           "link": "https://thehackernews.com/2026/11/drupal-patches-critical-installer-flaw.html",
           "pubDate": "2026-11-19T14:33:06+00:00"
-        },
-        {
-          "title": "Everything Is a Web Application, Including Your Firewall",
-          "link": "https://thehackernews.com/2026/11/everything-is-web-application-including.html",
-          "pubDate": "2026-11-19T11:52:23+00:00"
         }
       ]
     },
