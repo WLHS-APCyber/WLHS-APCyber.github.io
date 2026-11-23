@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-23T16:22:20.651503+00:00",
+  "updated": "2026-11-23T18:23:10.213734+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
+          "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
+          "pubDate": "2026-11-23T17:45:15+00:00"
+        },
         {
           "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
           "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
@@ -28,11 +33,6 @@
           "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
           "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
           "pubDate": "2026-11-23T09:11:56+00:00"
-        },
-        {
-          "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
-          "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
-          "pubDate": "2026-11-23T09:04:08+00:00"
         }
       ]
     },
