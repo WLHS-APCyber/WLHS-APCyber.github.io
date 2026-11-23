@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-23T08:28:20.792437+00:00",
+  "updated": "2026-11-23T10:22:03.086822+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
+          "pubDate": "2026-11-23T09:11:56+00:00"
+        },
+        {
+          "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
+          "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
+          "pubDate": "2026-11-23T09:04:08+00:00"
+        },
+        {
+          "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+          "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
+          "pubDate": "2026-11-23T08:24:15+00:00"
+        },
         {
           "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
           "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
@@ -18,21 +33,6 @@
           "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
           "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
           "pubDate": "2026-11-21T11:53:07+00:00"
-        },
-        {
-          "title": "GnuPG Warns Critical GPGME Flaw Could Expose App Data via Malicious OpenPGP Keys",
-          "link": "https://thehackernews.com/2026/11/gnupg-warns-critical-gpgme-flaw-could.html",
-          "pubDate": "2026-11-21T11:05:53+00:00"
-        },
-        {
-          "title": "Attackers' AI Agents Found a Zero-Day in Medical-Imaging Software and Gained Root Access",
-          "link": "https://thehackernews.com/2026/11/attackers-ai-agents-found-zero-day-in.html",
-          "pubDate": "2026-11-21T11:03:17+00:00"
-        },
-        {
-          "title": "Signal Blocks AI Agents From Reading Private Chats via Screenshots on Android and iOS",
-          "link": "https://thehackernews.com/2026/11/signal-blocks-ai-agents-from-reading.html",
-          "pubDate": "2026-11-21T08:49:20+00:00"
         }
       ]
     },
