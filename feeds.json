@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-23T14:22:45.344704+00:00",
+  "updated": "2026-11-23T16:22:20.651503+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
+          "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
+          "pubDate": "2026-11-23T15:10:48+00:00"
+        },
         {
           "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
           "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
@@ -28,11 +33,6 @@
           "title": "Hackers Exploited GL.iNet Cloud Flaw to Install Malware on Routers and KVM Devices",
           "link": "https://thehackernews.com/2026/11/hackers-exploited-glinet-cloud-flaw-to.html",
           "pubDate": "2026-11-23T09:04:08+00:00"
-        },
-        {
-          "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
-          "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
-          "pubDate": "2026-11-23T08:24:15+00:00"
         }
       ]
     },
