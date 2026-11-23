@@ -1,9 +1,24 @@
 {
-  "updated": "2026-11-23T10:22:03.086822+00:00",
+  "updated": "2026-11-23T14:22:45.344704+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
+          "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
+          "pubDate": "2026-11-23T13:22:20+00:00"
+        },
+        {
+          "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
+          "pubDate": "2026-11-23T12:41:04+00:00"
+        },
+        {
+          "title": "N-able Discloses Critical Mail Assure Vulnerability Found During Breach Investigation",
+          "link": "https://thehackernews.com/2026/11/n-able-discloses-critical-mail-assure.html",
+          "pubDate": "2026-11-23T12:28:09+00:00"
+        },
         {
           "title": "Hackers Exploit Critical ASP.NET Anti-CSRF Library Flaw Allowing Unauthenticated RCE",
           "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-aspnet-anti.html",
@@ -15,24 +30,9 @@
           "pubDate": "2026-11-23T09:04:08+00:00"
         },
         {
-          "title": "AI-Assisted Cyberattacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
+          "title": "AI-Assisted Cyber Attacks Trigger Unauthorized Payments at Indian Banks and Fintech Firms",
           "link": "https://thehackernews.com/2026/11/ai-assisted-cyberattacks-trigger.html",
           "pubDate": "2026-11-23T08:24:15+00:00"
-        },
-        {
-          "title": "OpenRouter Drops 3 Providers After Researchers Catch Months of Prompt Theft at AI Hosting Firms",
-          "link": "https://thehackernews.com/2026/11/openrouter-drops-3-providers-after.html",
-          "pubDate": "2026-11-22T05:06:55+00:00"
-        },
-        {
-          "title": "Researchers Demonstrate Ghostscript Sandbox-Escape RCE via Crafted File Uploads in Popular Apps",
-          "link": "https://thehackernews.com/2026/11/researchers-demonstrate-ghostscript.html",
-          "pubDate": "2026-11-22T05:03:41+00:00"
-        },
-        {
-          "title": "A Single Malicious Webpage Let Researchers Hijack Meta Muse and Access Private Chats",
-          "link": "https://thehackernews.com/2026/11/a-single-malicious-webpage-let.html",
-          "pubDate": "2026-11-21T11:53:07+00:00"
         }
       ]
     },
