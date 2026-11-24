@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T18:23:10.213734+00:00",
+  "updated": "2026-11-24T06:31:01.697600+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
@@ -55,7 +55,7 @@
           "pubDate": "2026-11-20T03:44:54+00:00"
         },
         {
-          "title": "CastleRAT - 179,745 breached accounts",
+          "title": "CastleRAT - 430,557 breached accounts",
           "link": "https://haveibeenpwned.com/Breach/CastleRAT",
           "pubDate": "2026-11-13T05:41:32+00:00"
         },
