@@ -1,38 +1,38 @@
 {
-  "updated": "2026-11-24T12:27:47.687819+00:00",
+  "updated": "2026-11-24T14:22:17.939866+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
         {
+          "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
+          "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
+          "pubDate": "2026-11-24T13:28:26+00:00"
+        },
+        {
+          "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
+          "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
+          "pubDate": "2026-11-24T13:28:21+00:00"
+        },
+        {
+          "title": "Hackers Found a Way Around GitHub SHA Pinning. This Webinar Explains How to Close the Gap",
+          "link": "https://thehackernews.com/2026/11/hackers-found-way-around-github-sha.html",
+          "pubDate": "2026-11-24T12:42:09+00:00"
+        },
+        {
+          "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
+          "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
+          "pubDate": "2026-11-24T12:02:00+00:00"
+        },
+        {
+          "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
+          "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
+          "pubDate": "2026-11-24T12:01:54+00:00"
+        },
+        {
           "title": "Microsoft Fixes Azure API Management Classic Flaw as Actor Targets Customer Secrets",
           "link": "https://thehackernews.com/2026/11/microsoft-fixes-azure-api-management.html",
           "pubDate": "2026-11-24T10:44:49+00:00"
-        },
-        {
-          "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
-          "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
-          "pubDate": "2026-11-24T08:34:20+00:00"
-        },
-        {
-          "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
-          "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
-          "pubDate": "2026-11-24T06:02:57+00:00"
-        },
-        {
-          "title": "Hackers Exploit N-able MailAssure Flaw While AI Agents Exploit MONAI Label Zero-Day",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-n-able-mailassure-flaw.html",
-          "pubDate": "2026-11-24T06:02:45+00:00"
-        },
-        {
-          "title": "Webworm Suspected of Modifying SoftEther VPN to Evade Detection and Hide Remote Access",
-          "link": "https://thehackernews.com/2026/11/webworm-suspected-of-modifying.html",
-          "pubDate": "2026-11-23T17:45:15+00:00"
-        },
-        {
-          "title": "⚡ Weekly Recap: VMware 0-Day, Java4Shell, NGINX2Root, Ruby2Shell, and a Whole Lot of Shell Trouble",
-          "link": "https://thehackernews.com/2026/11/weekly-recap-vmware-0-day-java4shell.html",
-          "pubDate": "2026-11-23T15:10:48+00:00"
         }
       ]
     },
