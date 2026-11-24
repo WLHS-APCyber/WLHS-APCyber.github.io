@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-24T08:24:54.259448+00:00",
+  "updated": "2026-11-24T10:20:58.618433+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "WHMCS SQL Injection Could Expose Customer Data and Admin Password Hashes without Login",
+          "link": "https://thehackernews.com/2026/11/whmcs-sql-injection-flaw-could-expose.html",
+          "pubDate": "2026-11-24T08:34:20+00:00"
+        },
         {
           "title": "OpenAI and Cisco Unveil AI-Assisted Linux Security Tool to Block Exploits Before Patching",
           "link": "https://thehackernews.com/2026/11/openai-and-cisco-unveil-ai-assisted.html",
@@ -28,11 +33,6 @@
           "title": "Critical binary-parser Flaw Enables JavaScript Injection via Malicious Parser Definitions",
           "link": "https://thehackernews.com/2026/11/critical-binary-parser-flaw-enables.html",
           "pubDate": "2026-11-23T13:22:20+00:00"
-        },
-        {
-          "title": "Hackers Exploit Critical ScreenConnect Flaw to Hijack MSP Technician PCs Without Warning",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-critical-screenconnect.html",
-          "pubDate": "2026-11-23T12:41:04+00:00"
         }
       ]
     },
