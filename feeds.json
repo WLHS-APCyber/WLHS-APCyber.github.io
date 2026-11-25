@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-25T12:28:21.753341+00:00",
+  "updated": "2026-11-25T14:22:26.867511+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
+          "pubDate": "2026-11-25T12:48:54+00:00"
+        },
+        {
+          "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
+          "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+          "pubDate": "2026-11-25T12:30:08+00:00"
+        },
         {
           "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
           "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
@@ -23,16 +33,6 @@
           "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
           "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
           "pubDate": "2026-11-25T09:06:59+00:00"
-        },
-        {
-          "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
-          "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
-          "pubDate": "2026-11-25T06:50:19+00:00"
-        },
-        {
-          "title": "Com-Affiliated Hackers Hijack Cloud Accounts via Vishing for Data Theft and Extortion",
-          "link": "https://thehackernews.com/2026/11/com-affiliated-hackers-hijack-cloud.html",
-          "pubDate": "2026-11-25T06:37:06+00:00"
         }
       ]
     },
