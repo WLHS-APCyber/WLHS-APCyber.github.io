@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-25T08:25:36.876121+00:00",
+  "updated": "2026-11-25T10:22:14.049507+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
+          "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
+          "pubDate": "2026-11-25T09:06:59+00:00"
+        },
         {
           "title": "Hackers Compromise 24 Check Point Management Servers in Suspected AI-Driven Attack Campaign",
           "link": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
@@ -28,11 +33,6 @@
           "title": "VMware vCenter Hit by Another Critical 9.8-Rated Auth Bypass Flaw After Zero-Day Exploitation",
           "link": "https://thehackernews.com/2026/11/vmware-vcenter-hit-by-another-critical.html",
           "pubDate": "2026-11-24T13:28:26+00:00"
-        },
-        {
-          "title": "Okta Links ShinyHunters-Associated Vishing Group to New INCEPTION Data Leak Site",
-          "link": "https://thehackernews.com/2026/11/okta-links-shinyhunters-associated.html",
-          "pubDate": "2026-11-24T13:28:21+00:00"
         }
       ]
     },
