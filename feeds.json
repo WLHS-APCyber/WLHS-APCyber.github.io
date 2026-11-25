@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-24T18:23:18.873834+00:00",
+  "updated": "2026-11-25T06:31:44.825550+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "WordPress Blocks Six Backdoored WP Connect Plugins Before Malicious Releases Go Live",
+          "link": "https://thehackernews.com/2026/11/wordpress-blocks-six-backdoored-wp.html",
+          "pubDate": "2026-11-25T06:21:12+00:00"
+        },
         {
           "title": "Iran-Aligned Volant Manticore Uses IPFS-Based KuboShell Backdoor in Espionage Campaigns",
           "link": "https://thehackernews.com/2026/11/iran-aligned-volant-manticore-uses-ipfs.html",
@@ -28,11 +33,6 @@
           "title": "Google Researcher Shows How a Single Bit Change in .NET Files Bypassed Windows Code Integrity",
           "link": "https://thehackernews.com/2026/11/google-researcher-shows-how-single-bit.html",
           "pubDate": "2026-11-24T12:02:00+00:00"
-        },
-        {
-          "title": "2027 SOC Budget Reset: 5 Priorities to Cut Costs and Reduce Cyber Risk",
-          "link": "https://thehackernews.com/2026/11/2027-soc-budget-reset-5-priorities-to.html",
-          "pubDate": "2026-11-24T12:01:54+00:00"
         }
       ]
     },
