@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-26T06:31:30.650668+00:00",
+  "updated": "2026-11-26T08:25:18.461796+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Drupal Warns of New Highly Critical Site Takeover Vulnerability Under Active Exploitation",
+          "link": "https://thehackernews.com/2026/11/drupal-warns-of-new-highly-critical.html",
+          "pubDate": "2026-11-26T07:02:34+00:00"
+        },
+        {
+          "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
+          "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
+          "pubDate": "2026-11-26T06:44:46+00:00"
+        },
         {
           "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
           "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
@@ -23,16 +33,6 @@
           "title": "U.S. Treasury's Financial Crimes Agency Takes Some Systems Offline After Cyber Intrusion",
           "link": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
           "pubDate": "2026-11-25T12:30:08+00:00"
-        },
-        {
-          "title": "Credential Remediation Is Slow When You Don’t Know What Will Break",
-          "link": "https://thehackernews.com/2026/11/credential-remediation-is-slow-when-you.html",
-          "pubDate": "2026-11-25T11:51:48+00:00"
-        },
-        {
-          "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
-          "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
-          "pubDate": "2026-11-25T11:23:26+00:00"
         }
       ]
     },
