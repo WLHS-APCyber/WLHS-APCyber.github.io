@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-26T04:23:49.140636+00:00",
+  "updated": "2026-11-26T06:31:30.650668+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
+          "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
+          "pubDate": "2026-11-26T04:20:22+00:00"
+        },
         {
           "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
           "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
@@ -28,11 +33,6 @@
           "title": "Drupal Fail2Install Exploit Details Emerge as Critical RCE Flaw Faces Active Exploitation",
           "link": "https://thehackernews.com/2026/11/drupal-fail2install-exploit-details.html",
           "pubDate": "2026-11-25T11:23:26+00:00"
-        },
-        {
-          "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
-          "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
-          "pubDate": "2026-11-25T10:43:07+00:00"
         }
       ]
     },
