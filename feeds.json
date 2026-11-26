@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-26T12:28:21.775004+00:00",
+  "updated": "2026-11-26T16:22:58.380236+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
+          "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
+          "pubDate": "2026-11-26T15:13:41+00:00"
+        },
         {
           "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
           "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
@@ -28,11 +33,6 @@
           "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
           "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
           "pubDate": "2026-11-26T03:48:52+00:00"
-        },
-        {
-          "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
-          "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
-          "pubDate": "2026-11-25T12:48:54+00:00"
         }
       ]
     },
