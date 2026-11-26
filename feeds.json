@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-25T14:22:26.867511+00:00",
+  "updated": "2026-11-26T04:23:49.140636+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
+          "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
+          "pubDate": "2026-11-26T03:48:52+00:00"
+        },
         {
           "title": "Hackers Exploit Two GeoServer Flaws as Researchers Warn of Unauthenticated RCE Chains",
           "link": "https://thehackernews.com/2026/11/hackers-exploit-two-geoserver-flaws-as.html",
@@ -28,11 +33,6 @@
           "title": "Ex-OpenAI Employee Accused of Bugging Company Offices Granted $1 Million Bail",
           "link": "https://thehackernews.com/2026/11/ex-openai-employee-accused-of-bugging.html",
           "pubDate": "2026-11-25T10:43:07+00:00"
-        },
-        {
-          "title": "Hackers Exploited CVSS 10.0 Hex.pm RCE Flaw to Compromise 6 Package Registry Servers",
-          "link": "https://thehackernews.com/2026/11/hackers-exploited-cvss-100-hexpm-rce.html",
-          "pubDate": "2026-11-25T09:06:59+00:00"
         }
       ]
     },
