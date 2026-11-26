@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-26T16:22:58.380236+00:00",
+  "updated": "2026-11-26T20:21:04.582793+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
+          "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
+          "pubDate": "2026-11-26T19:39:57+00:00"
+        },
         {
           "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
           "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
@@ -28,11 +33,6 @@
           "title": "Hackers Exploit 10 Vulnerabilities Across Mitel, Juniper, Vates, and Danfoss Products",
           "link": "https://thehackernews.com/2026/11/hackers-exploit-10-vulnerabilities.html",
           "pubDate": "2026-11-26T06:44:46+00:00"
-        },
-        {
-          "title": "13 Malicious NuGet Packages Turn Fake .NET Job Assessments Into Malware Delivery Traps",
-          "link": "https://thehackernews.com/2026/11/13-malicious-nuget-packages-turn-fake.html",
-          "pubDate": "2026-11-26T03:48:52+00:00"
         }
       ]
     },
