@@ -1,9 +1,19 @@
 {
-  "updated": "2026-11-27T06:32:09.004549+00:00",
+  "updated": "2026-11-27T12:28:10.551192+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
+          "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
+          "pubDate": "2026-11-27T10:32:18+00:00"
+        },
+        {
+          "title": "Hackers Trojanize Official Q-Dir and DesktopOK Downloads to Deliver Remote Access Malware",
+          "link": "https://thehackernews.com/2026/11/hackers-trojanize-official-q-dir-and.html",
+          "pubDate": "2026-11-27T09:29:30+00:00"
+        },
         {
           "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
           "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
@@ -23,16 +33,6 @@
           "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
           "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
           "pubDate": "2026-11-26T15:13:41+00:00"
-        },
-        {
-          "title": "Most Wanted: The Phishing Kits and Techniques Getting Past Security Controls",
-          "link": "https://thehackernews.com/2026/11/most-wanted-phishing-kits-and.html",
-          "pubDate": "2026-11-26T10:57:55+00:00"
-        },
-        {
-          "title": "1Password Hacked, Customer Data and Source Code Stolen in GitHub Account Breach",
-          "link": "https://thehackernews.com/2026/11/1password-hacked-customer-data-and.html",
-          "pubDate": "2026-11-26T10:57:25+00:00"
         }
       ]
     },
