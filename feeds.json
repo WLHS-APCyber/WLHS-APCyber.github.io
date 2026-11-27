@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-27T12:28:10.551192+00:00",
+  "updated": "2026-11-27T14:21:30.519830+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
+          "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
+          "pubDate": "2026-11-27T11:49:34+00:00"
+        },
         {
           "title": "How to Keep Your Security Picture Current When Attackers Move at AI Speed",
           "link": "https://thehackernews.com/2026/11/how-to-keep-your-security-picture.html",
@@ -28,11 +33,6 @@
           "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
           "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
           "pubDate": "2026-11-26T19:39:57+00:00"
-        },
-        {
-          "title": "North Korea-Linked PolinRider Poisons Over 7,600 GitHub Repositories to Spread Malware",
-          "link": "https://thehackernews.com/2026/11/north-korea-linked-polinrider-poisons.html",
-          "pubDate": "2026-11-26T15:13:41+00:00"
         }
       ]
     },
