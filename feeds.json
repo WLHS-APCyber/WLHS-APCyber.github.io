@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-27T14:21:30.519830+00:00",
+  "updated": "2026-11-27T18:23:37.993435+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
+          "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
+          "pubDate": "2026-11-27T16:36:11+00:00"
+        },
         {
           "title": "Microsoft Store App Found Delivering Vinci RAT Capable of Remote System Control",
           "link": "https://thehackernews.com/2026/11/microsoft-store-app-found-delivering.html",
@@ -28,11 +33,6 @@
           "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
           "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
           "pubDate": "2026-11-27T05:48:20+00:00"
-        },
-        {
-          "title": "ThreatsDay: 10M NGINX Services at Risk, 250+ Malicious Extensions, AI Server Hijacking + 17 More Stories",
-          "link": "https://thehackernews.com/2026/11/threatsday-250-rogue-extensions-10m.html",
-          "pubDate": "2026-11-26T19:39:57+00:00"
         }
       ]
     },
