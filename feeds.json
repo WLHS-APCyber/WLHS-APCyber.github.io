@@ -1,9 +1,14 @@
 {
-  "updated": "2026-11-27T18:23:37.993435+00:00",
+  "updated": "2026-11-28T10:21:00.081557+00:00",
   "feeds": {
     "hackernews": {
       "url": "https://feeds.feedburner.com/TheHackersNews",
       "items": [
+        {
+          "title": "pCloud Password Manager Hit by Cyber Attack Involving Email Address Exposure and Login Attempts",
+          "link": "https://thehackernews.com/2026/11/pcloud-password-manager-hit-by-cyber.html",
+          "pubDate": "2026-11-28T08:08:11+00:00"
+        },
         {
           "title": "Suspected Vietnam-Linked Hackers Target Southeast Asia in South China Sea Espionage Campaign",
           "link": "https://thehackernews.com/2026/11/suspected-vietnam-linked-hackers-target.html",
@@ -28,11 +33,6 @@
           "title": "Switzerland Confirms AI-Assisted Cyberattacks Breached Critical Infrastructure Operators",
           "link": "https://thehackernews.com/2026/11/switzerland-confirms-ai-assisted.html",
           "pubDate": "2026-11-27T06:04:20+00:00"
-        },
-        {
-          "title": "Unpatched Cacti Zero-Day Enables RCE in Just Four HTTP Requests via Guest Access",
-          "link": "https://thehackernews.com/2026/11/unpatched-cacti-zero-day-enables-rce-in.html",
-          "pubDate": "2026-11-27T05:48:20+00:00"
         }
       ]
     },
